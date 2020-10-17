@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on BCA Notes</title>
+    <link>https://xvishaldongre.github.io/public/tags/1/</link>
+    <description>Recent content in 1 on BCA Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Oct 2020 18:53:47 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/public/tags/1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Networks Basics</title>
+      <link>https://xvishaldongre.github.io/public/posts/first-post/</link>
+      <pubDate>Thu, 15 Oct 2020 18:53:47 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/public/posts/first-post/</guid>
+      <description>Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.
+Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc  Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc  Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc  Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access  Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data.</description>
+    </item>
+    
+  </channel>
+</rss>
