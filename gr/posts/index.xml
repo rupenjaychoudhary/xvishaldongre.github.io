@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BCA Notes</title>
+    <link>https://xvishaldongre.github.io/gr/posts/</link>
+    <description>Recent content in Posts on BCA Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/gr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit - 1</title>
+      <link>https://xvishaldongre.github.io/gr/posts/3.-computer_neworks_unit-1/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/gr/posts/3.-computer_neworks_unit-1/</guid>
+      <description>ye greek m h ah asdfh</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,50 +5,51 @@
     <link>https://xvishaldongre.github.io/tags/computer-neworks/</link>
     <description>Recent content in Computer Neworks on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <copyright>Everything is mine</copyright>
     <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/tags/computer-neworks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://xvishaldongre.github.io/posts/computer_neworks_unit-3/</link>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-3/</guid>
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://xvishaldongre.github.io/posts/computer_neworks_unit-4/</link>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-4/</guid>
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://xvishaldongre.github.io/posts/computer_neworks_unit-5/</link>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-5/</guid>
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/posts/computer_neworks_unit-1/</link>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-1/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-1/</guid>
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-1/</guid>
       <description>Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.
-Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc  Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc  Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc  Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access  Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data.</description>
+ Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc   Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc   Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc   Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access   Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data.</description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/posts/computer_neworks_unit-2/</link>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-2/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-2/</guid>
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-2/</guid>
       <description>title: &amp;ldquo;Unit - 1&amp;rdquo; date: 2020-10-18T16:11:33+05:30
 weight: 1 tags: [&amp;ldquo;Computer Neworks&amp;rdquo;] author: Vishal Dongre showToc: true TocOpen: false draft: false hidemeta: false disableShare: false
 Hi there</description>
