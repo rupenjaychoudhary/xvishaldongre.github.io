@@ -49,7 +49,9 @@ Components  Node - A computer or device which is capable of sending and receving
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/posts/computer_neworks_unit-2/</guid>
-      <description>Hi there</description>
+      <description>title: &amp;ldquo;Unit - 1&amp;rdquo; date: 2020-10-18T16:11:33+05:30
+weight: 1 tags: [&amp;ldquo;Computer Neworks&amp;rdquo;] author: Vishal Dongre showToc: true TocOpen: false draft: false hidemeta: false disableShare: false
+Hi there</description>
     </item>
     
   </channel>
