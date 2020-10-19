@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Neworks on BCA Notes</title>
+    <link>https://xvishaldongre.github.io/hi/tags/computer-neworks/</link>
+    <description>Recent content in Computer Neworks on BCA Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤ by Vishal Dongre</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/hi/tags/computer-neworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit - 1</title>
+      <link>https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-1/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-1/</guid>
+      <description>Introduction Computer Network - परस्पर कंप्यूटरों की एक प्रणाली जो कंप्यूटरों को एक दूसरे के साथ संवाद (communicate) करने और अपने संसाधनों (resources), डेटा और applications को साझा करने में सक्षम बनाती है।
+ Components  Node - एक कंप्यूटर या डिवाइस जो डेटा भेजने और प्राप्त करने में सक्षम है। Message - Video, Audio, Document, किसी भी प्रकार का Data, आदि Sender - कंप्यूटर / डिवाइस जो संदेश भेजता है। Reciver - कंप्यूटर / डिवाइस जो संदेश प्राप्त करता है। मध्यम (Medium) - जिसके माध्यम से संदेश एक नोड से दूसरे नोड में जाता है, उदाहरण कोएक्सियल केबल (coaxial cable), फाइबर ऑप्टिक्स, रेडियो तरंगों, आदि , फाइबर ऑप्टिक्स, रेडियो तरंगों (radio waves), आदि ** प्रोटोकॉल (Protocol)** - प्रोटोकॉल डेटा को प्रारूपित (formatting) करने और संसाधित (processing) करने के लिए नियमों का एक मानकीकृत (standardized) सेट है, उदाहरण TCP, UDP, FTP, SMTP, आदि   लक्ष्य (Goals)  रिसोर्स शेयरिंग (Resource Sharing) Improved Performance उच्च विश्वसनीयता (High Reliability) Flexible access लागत में कमी स्केलेबिलिटी Inter-process communication Access remote information आदि   उपयोग (Applications (Uses))  ईकामर्स (eCommerce)  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   फ़ाइल साझा करना (File sharing) Streaming videos or audios Video calls Internet etc   Network Criteria  प्रदर्शन (Performance) - पारगमन समय (transit time) और प्रतिक्रिया समय (response time) द्वारा मापा (measure) जाता है  Transit time - एक संदेश से एक डिवाइस से दूसरे तक यात्रा करने का समय Response time - inquiry और एक प्रतिक्रिया के बीच का समय   विश्वसनीयता (Reliability) - measured in terms of  विफलताओं (failures) की आवृत्ति (Frequency) of failures असफलताओं (failures) से उबरना (Recovery) from failures   सुरक्षा (Security) - अनाधिकृत उपयोग (unauthorized access) से डेटा की रक्षा (protect) करना   कंप्यूटर नेटवर्क मॉडल (Computer Network Models) Sender और रिसीवर (receiver) के बीच संबंध स्थापित करने के लिए और डेटा को ट्रेसमिट (trasmit) करने के लिए भी जिम्मेदार (responsible) है।</description>
+    </item>
+    
+    <item>
+      <title>Unit - 2</title>
+      <link>https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-2/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-2/</guid>
+      <description>Hi this is vishal</description>
+    </item>
+    
+  </channel>
+</rss>
