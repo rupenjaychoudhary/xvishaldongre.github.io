@@ -8,33 +8,6 @@
     <copyright>Made with ❤ by Vishal Dongre</copyright>
     <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/tags/computer-neworks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
-      
-      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
-      
-      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
-      
-      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
-    </item>
-    
-    <item>
       <title>Unit - 1</title>
       <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-1/</link>
       <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
@@ -51,6 +24,33 @@
       
       <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-2/</guid>
       <description>Data Link Layer: Design Issues Framing, Error detection: Parity Check LRC VRC Check Sum Cyclic Redundancy Check (CRC) Correction Technique: Hamming code. Flow Control: Elementary Data Link Protocols: An Unrestricted Simplex Protocol Simplex Stop-and-Wait Protocol Sliding Window Protocols: One-Bit Sliding Window Protocol, Go Back N and Selective Repeat. Data link layer in the Internet: SLIP PPP. Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+    </item>
+    
+    <item>
+      <title>Unit - 3</title>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</guid>
+      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+    </item>
+    
+    <item>
+      <title>Unit - 4</title>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</guid>
+      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+    </item>
+    
+    <item>
+      <title>Unit - 5</title>
+      <link>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</link>
+      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</guid>
+      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
     </item>
     
   </channel>
