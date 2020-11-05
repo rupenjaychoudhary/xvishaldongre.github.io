@@ -3,62 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-2/</loc>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-cloud_computing_concepts-2/"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/cloud_computing_concepts-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-2/"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-3/</loc>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-cloud_computing_concepts-3/"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/cloud_computing_concepts-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-3/"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-4/</loc>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-cloud_computing_concepts-4/"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/cloud_computing_concepts-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-4/"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-5/</loc>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-cloud_computing_concepts-5/"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/cloud_computing_concepts-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-5/"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/cloud_computing_concepts-2/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/cloud_computing_concepts-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/cloud_computing_concepts-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/cloud_computing_concepts-3/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/cloud_computing_concepts-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/cloud_computing_concepts-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/cloud_computing_concepts-4/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/cloud_computing_concepts-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/cloud_computing_concepts-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/cloud_computing_concepts-5/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/cloud_computing_concepts-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/cloud_computing_concepts-5/"
                 />
   </url>
   
@@ -68,1292 +128,1307 @@
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_graphics_with_multimedials_unit-1/"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/accounting_and_financial_management_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-1/"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-1/"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-1/"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-management_information_system_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-management_information_system_unit-1/"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/computer_neworks_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-management_information_system_unit-1/"
+                href="https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-object_oriented_programming_concepts_using_java_unit-1/"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-1/"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-web_programming_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-web_programming_unit-1/"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/computer_system_architecture_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-web_programming_unit-1/"
+                href="https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-1/"
+                href="https://xvishaldongre.github.io/hi/cyber-security/cyber_security_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-1/"
+                href="https://xvishaldongre.github.io/cyber-security/cyber_security_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_oriented_numerical_methods_unit-1/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-1/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_system_architecture_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_system_architecture_unit-1/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/database_management_system_and_rdbms_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_system_architecture_unit-1/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/cyber_security_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/cyber_security_unit-1/"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/cyber_security_unit-1/"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/data_structures_using_c&#43;&#43;_unit-1/"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-1/"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/database_management_system_and_rdbms_unit-1/"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/internet_and_web_technology_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-1/"
+                href="https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/management-information-system/management_information_system_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/discrete_mathematics_and_algebra_unit-1/"
+                href="https://xvishaldongre.github.io/hi/management-information-system/management_information_system_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-1/"
+                href="https://xvishaldongre.github.io/management-information-system/management_information_system_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/fundamentals_of_computers_and_pc-software_unit-1/"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-1/"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/internet_and_web_technology_unit-1/"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-1/"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/operating_system_with_unix_linux_unit-1/"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-1/"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/programming_and_problem_solving_through_c_unit-1/"
+                href="https://xvishaldongre.github.io/hi/software-engineering/software_engineering_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-1/"
+                href="https://xvishaldongre.github.io/software-engineering/software_engineering_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/software_engineering_unit-1/</loc>
+    <loc>https://xvishaldongre.github.io/web-programming/web_programming_unit-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/software_engineering_unit-1/"
+                href="https://xvishaldongre.github.io/hi/web-programming/web_programming_unit-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/software_engineering_unit-1/"
+                href="https://xvishaldongre.github.io/web-programming/web_programming_unit-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-1/</loc>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-cloud_computing_concepts-1/"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/cloud_computing_concepts-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-cloud_computing_concepts-1/"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/cloud_computing_concepts-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/posts/cloud_computing_concepts-1/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_graphics_with_multimedials_unit-2/"
+                href="https://xvishaldongre.github.io/hi/posts/cloud_computing_concepts-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-2/"
+                href="https://xvishaldongre.github.io/posts/cloud_computing_concepts-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-2/"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/accounting_and_financial_management_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-2/"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-management_information_system_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-management_information_system_unit-2/"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-management_information_system_unit-2/"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-object_oriented_programming_concepts_using_java_unit-2/"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/computer_neworks_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-2/"
+                href="https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-web_programming_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-web_programming_unit-2/"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-web_programming_unit-2/"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-2/"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/computer_system_architecture_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-2/"
+                href="https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_oriented_numerical_methods_unit-2/"
+                href="https://xvishaldongre.github.io/hi/cyber-security/cyber_security_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-2/"
+                href="https://xvishaldongre.github.io/cyber-security/cyber_security_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_system_architecture_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_system_architecture_unit-2/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_system_architecture_unit-2/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/cyber_security_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/cyber_security_unit-2/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/database_management_system_and_rdbms_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/cyber_security_unit-2/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/data_structures_using_c&#43;&#43;_unit-2/"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-2/"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/database_management_system_and_rdbms_unit-2/"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-2/"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/discrete_mathematics_and_algebra_unit-2/"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/internet_and_web_technology_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-2/"
+                href="https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/management-information-system/management_information_system_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/fundamentals_of_computers_and_pc-software_unit-2/"
+                href="https://xvishaldongre.github.io/hi/management-information-system/management_information_system_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-2/"
+                href="https://xvishaldongre.github.io/management-information-system/management_information_system_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/internet_and_web_technology_unit-2/"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-2/"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/operating_system_with_unix_linux_unit-2/"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-2/"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/programming_and_problem_solving_through_c_unit-2/"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-2/"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/software_engineering_unit-2/</loc>
+    <loc>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/software_engineering_unit-2/"
+                href="https://xvishaldongre.github.io/hi/software-engineering/software_engineering_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/software_engineering_unit-2/"
+                href="https://xvishaldongre.github.io/software-engineering/software_engineering_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/web-programming/web_programming_unit-2/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_graphics_with_multimedials_unit-3/"
+                href="https://xvishaldongre.github.io/hi/web-programming/web_programming_unit-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-3/"
+                href="https://xvishaldongre.github.io/web-programming/web_programming_unit-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-3/"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/accounting_and_financial_management_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-3/"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-management_information_system_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-management_information_system_unit-3/"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-management_information_system_unit-3/"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-object_oriented_programming_concepts_using_java_unit-3/"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/computer_neworks_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-3/"
+                href="https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-web_programming_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-web_programming_unit-3/"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-web_programming_unit-3/"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-3/"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/computer_system_architecture_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-3/"
+                href="https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_oriented_numerical_methods_unit-3/"
+                href="https://xvishaldongre.github.io/hi/cyber-security/cyber_security_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-3/"
+                href="https://xvishaldongre.github.io/cyber-security/cyber_security_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_system_architecture_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_system_architecture_unit-3/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_system_architecture_unit-3/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/cyber_security_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/cyber_security_unit-3/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/database_management_system_and_rdbms_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/cyber_security_unit-3/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/data_structures_using_c&#43;&#43;_unit-3/"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-3/"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/database_management_system_and_rdbms_unit-3/"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-3/"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/discrete_mathematics_and_algebra_unit-3/"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/internet_and_web_technology_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-3/"
+                href="https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/management-information-system/management_information_system_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/fundamentals_of_computers_and_pc-software_unit-3/"
+                href="https://xvishaldongre.github.io/hi/management-information-system/management_information_system_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-3/"
+                href="https://xvishaldongre.github.io/management-information-system/management_information_system_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/internet_and_web_technology_unit-3/"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-3/"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/operating_system_with_unix_linux_unit-3/"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-3/"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/programming_and_problem_solving_through_c_unit-3/"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-3/"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/software_engineering_unit-3/</loc>
+    <loc>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/software_engineering_unit-3/"
+                href="https://xvishaldongre.github.io/hi/software-engineering/software_engineering_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/software_engineering_unit-3/"
+                href="https://xvishaldongre.github.io/software-engineering/software_engineering_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/web-programming/web_programming_unit-3/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_graphics_with_multimedials_unit-4/"
+                href="https://xvishaldongre.github.io/hi/web-programming/web_programming_unit-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_graphics_with_multimedials_unit-4/"
+                href="https://xvishaldongre.github.io/web-programming/web_programming_unit-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-4/"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/accounting_and_financial_management_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-4/"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-management_information_system_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-management_information_system_unit-4/"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-management_information_system_unit-4/"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-object_oriented_programming_concepts_using_java_unit-4/"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/computer_neworks_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-4/"
+                href="https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-web_programming_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-web_programming_unit-4/"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-web_programming_unit-4/"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-4/"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/computer_system_architecture_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-4/"
+                href="https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_oriented_numerical_methods_unit-4/"
+                href="https://xvishaldongre.github.io/hi/cyber-security/cyber_security_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-4/"
+                href="https://xvishaldongre.github.io/cyber-security/cyber_security_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_system_architecture_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_system_architecture_unit-4/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_system_architecture_unit-4/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/cyber_security_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/cyber_security_unit-4/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/database_management_system_and_rdbms_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/cyber_security_unit-4/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/data_structures_using_c&#43;&#43;_unit-4/"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-4/"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/database_management_system_and_rdbms_unit-4/"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-4/"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/discrete_mathematics_and_algebra_unit-4/"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/internet_and_web_technology_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-4/"
+                href="https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/management-information-system/management_information_system_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/fundamentals_of_computers_and_pc-software_unit-4/"
+                href="https://xvishaldongre.github.io/hi/management-information-system/management_information_system_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-4/"
+                href="https://xvishaldongre.github.io/management-information-system/management_information_system_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/internet_and_web_technology_unit-4/"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-4/"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/operating_system_with_unix_linux_unit-4/"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-4/"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/programming_and_problem_solving_through_c_unit-4/"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-4/"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/software_engineering_unit-4/</loc>
+    <loc>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/software_engineering_unit-4/"
+                href="https://xvishaldongre.github.io/hi/software-engineering/software_engineering_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/software_engineering_unit-4/"
+                href="https://xvishaldongre.github.io/software-engineering/software_engineering_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/web-programming/web_programming_unit-4/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-computer_neworks_unit-5/"
+                href="https://xvishaldongre.github.io/hi/web-programming/web_programming_unit-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-computer_neworks_unit-5/"
+                href="https://xvishaldongre.github.io/web-programming/web_programming_unit-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-management_information_system_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-management_information_system_unit-5/"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/accounting_and_financial_management_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-management_information_system_unit-5/"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/accounting_and_financial_management_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-object_oriented_programming_concepts_using_java_unit-5/"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-object_oriented_programming_concepts_using_java_unit-5/"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/computer_graphics_with_multimedials_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/3.-web_programming_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/3.-web_programming_unit-5/"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/computer_neworks_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/3.-web_programming_unit-5/"
+                href="https://xvishaldongre.github.io/computer-neworks/computer_neworks_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-5/"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-5/"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_graphics_with_multimedials_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_graphics_with_multimedials_unit-5/"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/computer_system_architecture_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_graphics_with_multimedials_unit-5/"
+                href="https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_oriented_numerical_methods_unit-5/"
+                href="https://xvishaldongre.github.io/hi/cyber-security/cyber_security_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_oriented_numerical_methods_unit-5/"
+                href="https://xvishaldongre.github.io/cyber-security/cyber_security_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/computer_system_architecture_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/computer_system_architecture_unit-5/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/computer_system_architecture_unit-5/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/data_structures_using_c&#43;&#43;_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/cyber_security_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/cyber_security_unit-5/"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/database_management_system_and_rdbms_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/cyber_security_unit-5/"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/database_management_system_and_rdbms_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/data_structures_using_c&#43;&#43;_unit-5/"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/data_structures_using_c&#43;&#43;_unit-5/"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/database_management_system_and_rdbms_unit-5/"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/database_management_system_and_rdbms_unit-5/"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/fundamentals_of_computers_and_pc-software_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/discrete_mathematics_and_algebra_unit-5/"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/internet_and_web_technology_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/discrete_mathematics_and_algebra_unit-5/"
+                href="https://xvishaldongre.github.io/internet-web-technology/internet_and_web_technology_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/management-information-system/management_information_system_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/fundamentals_of_computers_and_pc-software_unit-5/"
+                href="https://xvishaldongre.github.io/hi/management-information-system/management_information_system_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/fundamentals_of_computers_and_pc-software_unit-5/"
+                href="https://xvishaldongre.github.io/management-information-system/management_information_system_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/internet_and_web_technology_unit-5/"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/internet_and_web_technology_unit-5/"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/object_oriented_programming_concepts_using_java_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/operating_system_with_unix_linux_unit-5/"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/operating_system_with_unix_linux_unit-5/"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/operating_system_with_unix_linux_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/programming_and_problem_solving_through_c_unit-5/"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/programming_and_problem_solving_through_c_unit-5/"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/programming_and_problem_solving_through_c_unit-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xvishaldongre.github.io/posts/software_engineering_unit-5/</loc>
+    <loc>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-5/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://xvishaldongre.github.io/hi/posts/software_engineering_unit-5/"
+                href="https://xvishaldongre.github.io/hi/software-engineering/software_engineering_unit-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xvishaldongre.github.io/posts/software_engineering_unit-5/"
+                href="https://xvishaldongre.github.io/software-engineering/software_engineering_unit-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/web-programming/web_programming_unit-5/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/web-programming/web_programming_unit-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/web-programming/web_programming_unit-5/"
                 />
   </url>
   
@@ -1369,6 +1444,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/accounting-and-financial-management/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/accounting-and-financial-management/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/accounting-and-financial-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/accounting-and-financial-management/"
                 />
   </url>
   
@@ -1403,6 +1493,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/cloud-computing-concepts/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/cloud-computing-concepts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/cloud-computing-concepts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/computer-graphics-with-multimedia/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1414,6 +1519,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/computer-graphics-with-multimedia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/computer-graphics-with-multimedia/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/computer-graphics-with-multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/computer-graphics-with-multimedia/"
                 />
   </url>
   
@@ -1433,6 +1553,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/computer-neworks/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/computer-neworks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/computer-neworks/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/computer-oriented-numerical-methods/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1444,6 +1579,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/computer-oriented-numerical-methods/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/computer-oriented-numerical-methods/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/computer-oriented-numerical-methods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/"
                 />
   </url>
   
@@ -1463,6 +1613,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/computer-system-architecture/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/computer-system-architecture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/computer-system-architecture/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/cyber-security/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1474,6 +1639,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/cyber-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/cyber-security/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/cyber-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/cyber-security/"
                 />
   </url>
   
@@ -1508,6 +1688,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/database-management-system-rdbms/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/database-management-system-rdbms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/database-management-system-rdbms/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/discrete-mathematics-and-algebra/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1519,6 +1714,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/discrete-mathematics-and-algebra/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/discrete-mathematics-and-algebra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/"
                 />
   </url>
   
@@ -1538,6 +1748,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/fundamentals-of-computers-and-pc-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/fundamentals-of-computers-and-pc-software/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/internet-web-technology/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1549,6 +1774,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/internet-web-technology/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/internet-web-technology/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/internet-web-technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/internet-web-technology/"
                 />
   </url>
   
@@ -1568,6 +1808,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/management-information-system/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/management-information-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/management-information-system/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/object-oriented-programming-concepts-using-java/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1579,6 +1834,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/object-oriented-programming-concepts-using-java/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/object-oriented-programming-concepts-using-java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/operating-system-with-unix-linux/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/operating-system-with-unix-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/operating-system-with-unix-linux/"
                 />
   </url>
   
@@ -1613,6 +1898,21 @@
   </url>
   
   <url>
+    <loc>https://xvishaldongre.github.io/programming-and-problem-solving-through-c/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/programming-and-problem-solving-through-c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/programming-and-problem-solving-through-c/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xvishaldongre.github.io/tags/software-engineering/</loc>
     <lastmod>2020-10-18T16:11:33+05:30</lastmod>
     <xhtml:link
@@ -1624,6 +1924,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/software-engineering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/software-engineering/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/software-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/software-engineering/"
                 />
   </url>
   
@@ -1654,6 +1969,91 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xvishaldongre.github.io/tags/web-programming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/web-programming/</loc>
+    <lastmod>2020-10-18T16:11:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/web-programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/web-programming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://xvishaldongre.github.io/hi/posts/accounting_and_financial_management_unit-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xvishaldongre.github.io/posts/accounting_and_financial_management_unit-5/"
                 />
   </url>
   
