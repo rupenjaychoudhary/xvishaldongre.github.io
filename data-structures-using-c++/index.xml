@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structures Using C&#43;&#43; on BCA Notes</title>
+    <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/</link>
+    <description>Recent content in Data Structures Using C&#43;&#43; on BCA Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤ by Vishal Dongre</copyright>
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/data-structures-using-c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit - 1</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-1/</guid>
+      <description>Introduction Oops Languages Characteristics Of Oop‘s Languages Application Of Oop‘s Oop‘s Paradigm Concepts: Object Class Data Abstraction Data Encapsulation Inheritance And Polymorphism Static And Dynamic Binding Message Passing Benefits Of Oop‘s Disadvantage Of Oop‘s </description>
+    </item>
+    
+    <item>
+      <title>Unit - 2</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-2/</guid>
+      <description>C++ Programming Concepts: Input And Output In C++ Functions In C++- Value Parameters, Reference Parameters Parameter Passing Function Overloading Arrays Pointers New And Delete Operators Class And Object Access Specifiers Friend Functions Constructors And Destructor Operator Overloading Inheritance And Polymorphism Exceptions- Throwing An Exception And Handling An Exception </description>
+    </item>
+    
+    <item>
+      <title>Unit - 3</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-3/</guid>
+      <description>Basic Concepts – Data Structures Algorithm Specification- Introduction Recursive Algorithms Data Abstraction Performance Analysis- Time Complexity Space Complexity Asymptotic Notation- Big O Omega And Theta Notations Complexity Analysis Examples Introduction To Linear And Non Linear Data Stack: Definition Array Implementation Of Stack (Static Stack): Operations Push Pop Traverse Applications Of Stack: Infix Prefix Postfix Representation And Evaluation Using Stack, Use Of Stack In Recursive Implementation Queue: Definition Array Implementation Of Queue (Static Queue): Operations Insert Delete Traverse Introduction To Circular Queue: Definition &amp;amp; Implementation Priority Queue Double Ended Queue Applications Of Queue </description>
+    </item>
+    
+    <item>
+      <title>Unit - 4</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-4/</guid>
+      <description>Introduction To Linked List: Definition Advantaged Basic Operations On Linked List Stacks And Queues Using Linked List Doubly Linked List Circular Linked List Applications Of Linked List Searching And Sorting Techniques: Sequential Search Binary Search Insertion Sort Selection Sort Quick Sort Bubble Sort Heap Sort Comparison Of Sorting Methods </description>
+    </item>
+    
+    <item>
+      <title>Unit - 5</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/unit-5/</guid>
+      <description>Tree: Trees-Basic Terminology , Binary Trees Tree Representations As Array And Linked List Basic Operations On Binary Tree Traversal Of Binary Trees:- Inorder Preorder Postorder Applications Of Binary Tree Threaded Binary Tree AVL Tree Introduction To B-Tree &amp;amp; B+ Tree Hash Table Collision Resolution Technique Graphs: Definition Terminology Directed Undirected Graph Weighted Graph Representation Of Graph, Graph Traversal- Depth First Search Breadth First Search Spanning Tree Minimum Spanning Tree Shortest Path Algorithm </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/data-structures-using-c&#43;&#43;/resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

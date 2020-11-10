@@ -6,50 +6,59 @@
     <description>Recent content in Discrete Mathematics and Algebra on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/discrete-mathematics-and-algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <title>Unit - 1 Set Theory</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-1/</guid>
+      <description>Sets Definition of Sets Venn Diagrams complements Cartesian products power sets counting principle, cardinality and countability (Countable and Uncountable sets) proofs of some general identities on sets, pigeonhole principle. Relation: Definition types of relation composition of relations domain and range of a relation pictorial representation of relation properties of relation partial ordering relation. Function: Definition and types of function composition of functions recursively defined functions. </description>
     </item>
     
     <item>
-      <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <title>Unit - 2 Algebra of logic</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-2/</guid>
+      <description>Logic Proposition logic basic logic logical connectives truth tables tautologies contradiction normal forms(conjunctive and disjunctive) modus ponens and modus tollens validity predicate logic universal and existential quantification Notion of proof: proof by implication converse inverse contrapositive negation, contradiction direct proof proof by using truth table proof by counter example. </description>
     </item>
     
     <item>
-      <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <title>Unit - 3 Algebraic Structure</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-3/</guid>
+      <description>Binary composition and properties of Binary composition Definition of algebraic structure; Groyas Semi group Monoid Groups, Abelian Group properties of groups Permutation Groups Sub Group Cyclic Group Rings and Fields (definition and standard results) </description>
     </item>
     
     <item>
-      <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <title>Unit - 4 Graphs</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-4/</guid>
+      <description>Graph terminology types of graph connected graphs components of graph Euler graph Hamiltonian path and circuits Graph coloring Chromatic number Tree: Definition types of tree rooted tree binary tree Properties of trees binary search tree tree traversing preorder inorder postorder Finite Automata: Basic concepts of Automation theory Deterministic finite </description>
     </item>
     
     <item>
-      <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <title>Unit - 5 Determinant and Matrices</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/discrete_mathematics_and_algebra_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/unit-5/</guid>
+      <description>Determinant Determinants properties solution of simultaneous equations by Cramer‘s rule Matrices Definition of special kinds of matrices Review of matrices inverse of matrix Normal forms Linear dependence Rank Application to theory of solutions of system of linear equations linear transformation Orthogonal matrices Unitary matrices Hermitian matrices Eigen values and Eigen vectors </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/discrete-mathematics-and-algebra/resources/</guid>
+      <description></description>
     </item>
     
   </channel>

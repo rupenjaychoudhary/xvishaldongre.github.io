@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="preload stylesheet">
+    
+    <meta name="google-site-verification" content="6xDampq5k3XM9893O7oWPOBM00pcv_DZ77LKnQ7Ry7s" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+<title>Unit - 1 : Computer Neworks - BCA Notes</title>
+
+
+
+<meta name="description"
+    content="Unit - 1 - BCA Notes">
+<meta name="author" content="Vishal Dongre">
+<link rel="canonical" href="https://xvishaldongre.github.io/computer-neworks/unit-1/" />
+<link href="https://xvishaldongre.github.io/assets/css/stylesheet.min.1246c888d7c9b12710cf5e3a51fcf7808febd2e83843acc977e9860f6e3832f4.css" integrity="sha256-EkbIiNfJsScQz146Ufz3gI/r0ug4Q6zJd&#43;mGD244MvQ=" rel="preload stylesheet"
+    as="style">
+<link rel="apple-touch-icon" href="https://xvishaldongre.github.io/apple-touch-icon.png">
+<link rel="icon" href="https://xvishaldongre.github.io/favicon.ico">
+<meta name="generator" content="Hugo 0.75.1" />
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-747PCZ7M3S', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<meta property="og:title" content="Unit - 1" />
+<meta property="og:description" content="Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.
+ Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from a node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc   Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc   Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc   Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access   Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://xvishaldongre.github.io/computer-neworks/unit-1/" />
+<meta property="og:image" content="https://xvishaldongre.github.io/60"/>
+<meta property="article:published_time" content="2020-10-19T16:11:33+05:30" />
+<meta property="article:modified_time" content="2020-10-19T16:11:33+05:30" /><meta property="og:site_name" content="BCA Notes" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://xvishaldongre.github.io/60"/>
+
+<meta name="twitter:title" content="Unit - 1"/>
+<meta name="twitter:description" content="Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.
+ Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from a node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc   Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc   Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc   Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access   Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data."/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Unit - 1",
+  "name": "Unit - 1",
+  "description": "Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications. …",
+  "keywords": [
+    
+  ],
+  "articleBody": "Introduction Computer Network - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.\n Components  Node - A computer or device which is capable of sending and receving data. Message - Video, Audio, Document, any type of infromation, etc Sender - Computer/device which sends the message. Reciver - Computer/device which receives the message. Medium - through which message moves from a node to another node coaxial cable, fiber optics, radio waves, etc Protocol - TCP, UDP, FTP, SMTP etc   Goals  Resource Sharing Improved Performance High Reliability Flexible access Cost reduction (Save money ) Scalability Inter-process communication Access remote information etc   Applications (Uses)  eCommerce  B2C - Business to Consumer B2B - Business to Business C2C - Consumer to Consumer G2C - Government to Consumer P2P - Peer to Peer   File sharing Streming videos or audios Video calls etc   Network Criteria  Performance - measured by transit time and response time  Transit time - time for a message to travel from one device to another Response time - time between an inquiry and a response   Reliability - measured in terms of  Frequency of failures Recovery from failures   Security - protecting data from unauthorized access   Computer Network Models Responsible for establishing a connection among the sender and receiver and also for trasmitting the data.\nOSI Model  OSI - Open System Interconnection Designed and Developed by - International Organization for Standardization (ISO) in 1984 Describes - How information moves from one software application in a computer to another software application in another computer. Example - Whatsapp message from one phone to another phone. Consists of - Seven layers Seven Layers - “Please Do Not Throw Spinach Pizza Away”  Physical Layer Data-Link Layer Network Layer Transport Layer Session Layer Presentation Layer Application Layer    TCP/IP Model  TCP/IP - Transmission Control Protocol/Internet Protocol Designed and Developed by - Department of Defense (DoD) in 1960s Describes - A set of general design guidelines and implementations of specific networking protocols to enable computers to communicate over a network. Consists of - Four layers Four Layers -  Physical Layer Network Layer Transport Layer Application Layer     Types of Computer Network PAN (Personal Area Network)  Used by - single person Used for - personal needs Connect by - wires or wireless mediums Range - 30 feet Devices - laptops, mobiles, earphones etc Types -  Wired Personal Area Network Wireless Personal Area Newtwork   Examples - Person listning to music  LAN (Local Area Network)  Used by - office, small buildings, schools Used for - File sharing, resource sharing (printer, scanner etc) Connect by - twisted pair, coaxial cable etc Range - where network is used Devices - Computer, printer, screens etc Examples - sharing files between computer in a office  MAN (Metropolitan Area Network)   Used by - Goverment agencies, private companies\n  Used for - Data sharing\n  Range - Cities\n  Devices - Computer and other devices\n  Examples - Communication between the banks\n  WAN (Wide Area Network)\n Used by - Peoples, Government, Companies etc Used for - States or Contries Connect by - fiber optics, satellite, or by other wireless mediums Range - Bigger than WAN Devices - Any device capable of sending and receving data Examples - 4G network     Network Topologies Network topology refers to how various nodes, devices, and connections on your network are physically or logically arranged in relation to each other. Think of your network as a city, and the topology as the road map.\nTypes of Network Topologies 1. Physical The actual connections (wires, cables, etc.) of how the network is arranged.\n P2P Topology - The network consists of a direct link between two computers.  Advantages  Faster and highly reliable Not need an expensive server   Disadvantages  Small area only No security besides permissions     Bus Topology - Every computer and network device is connected to single cable  Features  Transmit data only in one direction Every device is connected to a single cable   Advantages  Low Cost Moderate data speed Least cable required Easy to understand Easy to expand Limited failure   Disadvantages  Cable fails then whole newtwork fails. Slower than ring topology     Ring Topology - Every device has exactly two neighboring devices for communication purpose, every computer is connected to another computer.  Advantages  Low cost Easier to install Easy to expand   Disadvantages  Troubleshooting is difficult Adding or deleting can disturbs the network Failure in one disturbs the whole network.     Star Topology - All the computers connect with a hub. This cable is called a central node, and all other nodes are connected using this central node.  Advantages  Fast performance with few nodes and low network traffic. Easy to troubleshoot. Easy to setup and modify. Only that node is affected which has failed, rest of the nodes can work smoothly.   Disadvantages  High Cost If hub fails then whole network is stopped Performance is based on hub     Tree Topology - It have a root node, and all other nodes are connected which form a hierarchy   Advantages\n Expansion is Easy Easily managed and maintained Easy error detection    Disadvantages\n Heavily cabled Costly Root node fails then whole network fails     Mesh Topology - Each computer on the network connects to every other  Advantages  Fault is diagnosed easily. Provides security and privacy.   Disadvantages  Installation and configuration is difficult. High cabling Cost Bulk wiring     Hybrid Topology - Combination two or more topologies  Advantages  Scalable as size can be increased easily. Flexible.   Disadvantages Complex in design. Costly    2. Logical Higher-level idea of how the network is set up, including which nodes connect to each other and in which ways, as well as how data is transmitted through the network. Logical network topology includes any virtual and cloud resources.\n LAN Components 1. Hardware Components Following are the Hardware components-\n Network Adapter Cards or Networking Interface Card (NICs) - Circuit board or card installed in computer so that it can be connected to a network. Server - A computer designed to process requests and deliver data to other (client) computers over a local network or the Internet. A server may be three types:  File Server: A file server is a computer that stores files, is attached to a network, and provides shared access of those files to multiple workstation computers. Print Server: A print server is a device that connects printers to client computers over a network. It accepts print request from the computers and sends the jobs to the appropriate printers over the LAN. Communication Server: A communication server is a computer system designed to handle a wide range of communications-based applications.   Station - A station is a computer that is connected with a server computer over the LAN, and communicate with other devices connected with it. HUB - A common connection point for devices in a network. Hubs are commonly used to connect segments of a LAN. A hub contains multiple ports. When a packet arrives atone port, it is copied to the other ports so that all segments of the LAN can see all-packets. Switch - A switch is like a hub in that it is a central point for connecting network cables; however, a switch is able to receive a packet and transmit it to only the destination computer. Router - Routers make the connection to the Internet for LANs. They use a configuration table to decide where packets should go. Access point - A hardware device or a computer’s software that acts as a communication hub for users of a wireless device to connect to a wired LAN. Power Supply - Both wired and wireless networks need a power supply. A wireless network uses the current to generate radio waves. A cabled network sends data interpreted as an electronic pulse. Connector - A network connector refers to any device that used to connect many LAN connection with the hardware of the computer. Shared Peripheral Device - A peripheral device is any device—such as a printer, hard disk drive, CD-ROM drive or modem—that is connected to and controlled by a computer. Any or all of these devices can be accessed by multiple users when connected to a LAN in the proper manner.  2. LAN Software  Operating system of Server Opetating system of client (workstations) Application software accessed by LAN User  3. Users  Users (Normal people who uses network resources.) Network Administrators (People who manages LAN network)   Newtorking/Transmission mediums Communication channel that carries the information from the sender to the receiver. Data is transmitted through the electromagnetic signals.\nGuided Media It is a wired transmission media, in which data signals are guided along a physical path i.e. within a wire.\n  Twisted pair Cable - The wires are twisted to reduce cross talk and electrical interference.\nInvented by - Alexander Graham Bell in 1881.\n Advantages  Easier to install Useful and inexpensive Used for analog or digital transmission   Disadvantages  Easily pick noise signal    Types of Twisted pair Cable:\n Shielded Unshielded    Coxial Cable - A group of wrapped and insulated wire line. They transmit data at higher rates.\nThe outer conductor acts as a shield against noise.\n Advantages  Used in cable television Higher bandwidth Preferred for long distance telephone lines Better shield Data transmission without any distortion. Higher noise immunity    Types od Coxial Cable:\n Baseband Broadband    Fiber Optic Cable - Also known as Optical Fibre provides high quality transmission of signals at high speed.\nIt has a glass core in the center.\n Advantages  It not get affected by electromagnetic interference. High quality transmission of signals at very high speed      Unguided Media To exchange bits of data for laptop, notebook, smart watch, without wires you need wireless communication.\n  Radio Transmission- Used globally for communication\nTravels long distances and even penetrate buildings with ease,\nOmnidirectional travel in all the directions\nRadio communication has eight ranges, also called bands and all regulated by government authorities.\n  Radio frequencies (Bands):\n VLF - Very Low Frequency for submarine communication LF - Low Frequency for long-range navigation. MF - Middle Frequency for AM radio. HF - High Frequency for long distance ship and aircraft communication. VHF - Very High Frequency for FM radio. UHF - Ultra High Frequency for Television, mobile telephone communication. SHF - Superhigh frequency for terrestrial and satellite microwave. EHF - Extremely high frequency for radar.      Microwave Transmission- Microwave transmission use lower gigahertz frequency of the electronic magnetic spectrum\nRequire line-of-sight transmission\nTypes:\n Terrestrial Microwave Satellite Communication     Guided vs UnGuided Transmission Media    Basic Guided/ Bounded Media UnGuided/ UnBounded Media     Transmission Wired Wireless   Also, called? Bounded Transmission Media UnBounded Transmission Media   Media Types Twisted Pair Cable, Coaxial cable, Fiber Optic cable, etc Microwave Transmission, Satellite Communication, etc.   Media Seen and touched i.e. tangible Cannot be seen and touched i.e intangible   Distance Shorter Distance Larger Distance     Comparison of Guided and UnGuided Transmission Media    Medium Attenuation Electromagnetic Interface Security Cost     Unshielded Twisted Pair High High Low Low   Shielded Twisted Pair High Moderate Low Moderate   Coaxial Cable Moderate Moderate Low Moderate   Fiber Optic Cable Low Low High High   Radio Waves Low to High High Low Moderate   Microwave Transmission Can be higher or lower or moderate High Moderate High   Satellite Communication Can be higher or lower or moderate High Moderate Very High     Digital Data Rate or Data Transfer Rate (DTR) Rate of speed at which the data is transferred from one point to another. Its measurement unit is bits per second (bps), Bytes per second (Bps).\nOther Forms\n   RATE DENOTED BY FULL FORM     Rate of thousand bits per second kbps Kilobits per second   Rate of thousand bytes per second Kbps Kilobytes per second   Rate of million bits per second mbps Megabits per second   Rate of Million bytes per second Mbps Megabytes per second     Serial Data Format Low-level protocol for communicating between two or more devices.\nSends and receives bytes of information in a serial fashion—one bit at a time.\nThese bytes are transmitted using either a binary format or a text (ASCII) format.\nEncoded data Formats Encoding- The process of converting the data or a given sequence of characters, symbols, alphabets etc., into a specified format.\nDecoding- the reverse process of encoding which is to extract the information from the converted format.\nData Encoding - The process of using various patterns of voltage or current levels to represent 1s and 0s of the digital signals on the transmission link.\n Encoding Techniques  Analog data to Analog signals Analog data to Digital signals Digital data to Analog signals Digital data to Digital signals     Connection Oriented and Connectionless services Connection-oriented service and Connection-less service are used for the connection establishment between two or more than two devices.\nConnection-oriented service It is related to the telephone system. It includes the connection establishment and connection termination. In connection-oriented service, Handshake method is used to establish the connection between sender and receiver.\nTCP (Transmission control protocol) is connection oriented network.\n In this first connection is made before sending the message It is a stream based transmission In this receiver is first checked for authentication so chances of getting error are very less. It is more reliable network.  Connection-less service Connection-less service is related to the postal system. It does not include any connection establishment and connection termination. Connection-less Service does not give the guarantee of reliability.\nUDP(User Datagram Protocol) is connection-less oriented network.\n In this no connection is established prior to sending message. It transmits data as message. There is no need to authenticate, so more likely to have error. It is unreliable network.   Switching Techniques In large networks, there can be multiple paths from sender to receiver. The switching technique will decide the best route for data transmission.\nClassification::\n Circuit Switching  Space Division Switch  Crossbar Switch Multistage Switch   Time Division Switch   Message Switching Packet Switching  Datagram Approch Virtual Circuit Approach  Switched Virtual Circuit (SVC) Permanent Virtual Circuit (PVC)      Circuit Switching  It establishes a dedicated path between sender and receiver. Once the connection is established then the dedicated path will remain to exist until the connection is terminated. In a network operates in a similar way as the telephone works. A complete end-to-end path must exist before the communication takes place. Before sending data a request signal is sent to recevier then the receiver sends back the acknowledgment Fixed data can be transferred at a time  Message Switching It is a connectionless network switching technique where the entire message is routed from the source node to the destination node, one node at a time.\nPacket Switching  Connectionless network switching technique The message is divided and grouped into a number of units called packets Packets has two parts: a header and a payload. Header contains the addressing information Payload carries the actual data    More Resources Overview of Computer Networking\nBasics of Computer Networking\nComputer Networks Tutorial | Studytonight\nComputer Networks Tutorial - Studyopedia\n",
+  "wordCount" : "2433",
+  "inLanguage": "en",
+  
+  "datePublished": "2020-10-19T16:11:33+05:30",
+  "dateModified": "2020-10-19T16:11:33+05:30",
+  "author": {
+    "@type": "Person",
+    "name": "Vishal Dongre"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://xvishaldongre.github.io/computer-neworks/unit-1/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "BCA Notes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://xvishaldongre.github.io/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+</head>
+
+<body class="single" id="top" style="font-family: Patrick Hand;">
+<script>
+    
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else {
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.body.classList.add('dark');
+        }
+    }
+</script>
+<noscript>
+    <style type="text/css">
+        .theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+</noscript>
+<header class="header">
+    <nav class="nav">
+        <p class="logo">
+            <a href="https://xvishaldongre.github.io/">BCA Notes</a>
+            <span class="theme-toggle">
+                <a id="theme-toggle">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </a>
+            </span>
+        </p>
+        <ul class="menu" id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="https://xvishaldongre.github.io/">
+                    <span>
+                        Home
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="https://xvishaldongre.github.io/about/">
+                    <span>
+                        About
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">
+      Unit - 1
+    </h1>
+    <div class="post-meta">
+      <time>October 19, 2020</time>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Vishal Dongre&nbsp;|&nbsp;
+      <ul class="i18n_list">Translations:
+        <li>
+          <a href="https://xvishaldongre.github.io/hi/computer-neworks/unit-1/">Hindi</a>
+        </li>
+      </ul>
+    </div>
+  </header>
+  <div class="toc">
+    <details >
+      <summary>
+        <div class="details">Table of Contents</div>
+      </summary>
+      <blockquote><ul><li>
+        <a href="#introduction">Introduction</a></li><li>
+        <a href="#components">Components</a></li><li>
+        <a href="#goals">Goals</a></li><li>
+        <a href="#applications-uses">Applications (Uses)</a></li><li>
+        <a href="#network-criteria">Network Criteria</a></li><li>
+        <a href="#computer-network-models">Computer Network Models</a><ul>
+            <li>
+        <a href="#osi-model">OSI Model</a></li><li>
+        <a href="#tcpip-model">TCP/IP Model</a></li></ul>
+    </li><li>
+        <a href="#types-of-computer-network">Types of Computer Network</a><ul>
+            <li>
+        <a href="#pan-personal-area-network">PAN (Personal Area Network)</a></li><li>
+        <a href="#lan-local-area-network">LAN (Local Area Network)</a></li><li>
+        <a href="#man-metropolitan-area-network">MAN (Metropolitan Area Network)</a></li></ul>
+    </li><li>
+        <a href="#network-topologies">Network Topologies</a></li><li>
+        <a href="#types-of-network-topologies">Types of Network Topologies</a><ul>
+            <li>
+        <a href="#1-physical">1. Physical</a></li><li>
+        <a href="#2-logical">2. Logical</a></li></ul>
+    </li><li>
+        <a href="#lan-components">LAN Components</a><ul>
+            <li>
+        <a href="#1-hardware-components">1. Hardware Components</a></li><li>
+        <a href="#2-lan-software">2. LAN Software</a></li><li>
+        <a href="#3-users">3. Users</a></li></ul>
+    </li><li>
+        <a href="#newtorkingtransmission-mediums">Newtorking/Transmission mediums</a><ul>
+            <li>
+        <a href="#guided-media">Guided Media</a></li><li>
+        <a href="#unguided-media">Unguided Media</a></li></ul>
+    </li><li>
+        <a href="#guided-vs-unguided-transmission-media">Guided vs UnGuided Transmission Media</a></li><li>
+        <a href="#comparison-of-guided-and-unguided-transmission-media">Comparison of Guided and UnGuided Transmission Media</a></li><li>
+        <a href="#digital-data-rate-or-data-transfer-rate-dtr">Digital Data Rate or Data Transfer Rate (DTR)</a></li><li>
+        <a href="#serial-data-format">Serial Data Format</a></li><li>
+        <a href="#encoded-data-formats">Encoded data Formats</a></li><li>
+        <a href="#connection-oriented-and-connectionless-services">Connection Oriented and Connectionless services</a><ul>
+            <li>
+        <a href="#connection-oriented-service">Connection-oriented service</a></li><li>
+        <a href="#connection-less-service">Connection-less service</a></li></ul>
+    </li><li>
+        <a href="#switching-techniques">Switching Techniques</a><ul>
+            <li>
+        <a href="#circuit-switching">Circuit Switching</a></li><li>
+        <a href="#message-switching">Message Switching</a></li><li>
+        <a href="#packet-switching">Packet Switching</a></li></ul>
+    </li><li>
+        <a href="#more-resources">More Resources</a></li></ul>
+      </blockquote>
+    </details>
+  </div>
+  <div class="post-content"><h2 id="introduction">Introduction</h2>
+<p><strong>Computer Network</strong> - A system of interconnected computers that enable the computers to communicate with each other and share their resources, data and applications.</p>
+<hr>
+<h2 id="components">Components</h2>
+<ul>
+<li><strong>Node</strong> - A computer or device which is capable of sending and receving data.</li>
+<li><strong>Message</strong> - Video, Audio, Document, any type of infromation, etc</li>
+<li><strong>Sender</strong> - Computer/device which sends the message.</li>
+<li><strong>Reciver</strong> - Computer/device which receives the message.</li>
+<li><strong>Medium</strong> - through which message moves from a node to another node coaxial cable, fiber optics, radio waves, etc</li>
+<li><strong>Protocol</strong> - TCP, UDP, FTP, SMTP etc</li>
+</ul>
+<hr>
+<h2 id="goals">Goals</h2>
+<ul>
+<li>Resource Sharing</li>
+<li>Improved Performance</li>
+<li>High Reliability</li>
+<li>Flexible access</li>
+<li>Cost reduction (Save money )</li>
+<li>Scalability</li>
+<li>Inter-process communication</li>
+<li>Access remote information</li>
+<li>etc</li>
+</ul>
+<hr>
+<h2 id="applications-uses">Applications (Uses)</h2>
+<ul>
+<li>eCommerce
+<ul>
+<li>B2C - Business to Consumer</li>
+<li>B2B - Business to Business</li>
+<li>C2C - Consumer to Consumer</li>
+<li>G2C - Government to Consumer</li>
+<li>P2P - Peer to Peer</li>
+</ul>
+</li>
+<li>File sharing</li>
+<li>Streming videos or audios</li>
+<li>Video calls</li>
+<li>etc</li>
+</ul>
+<hr>
+<h2 id="network-criteria">Network Criteria</h2>
+<ol>
+<li><strong>Performance</strong> - measured by transit time and response time
+<ul>
+<li>Transit time - time for a message to travel from one device to another</li>
+<li>Response time - time between an inquiry and a response</li>
+</ul>
+</li>
+<li><strong>Reliability</strong> - measured in terms of
+<ul>
+<li>Frequency of failures</li>
+<li>Recovery from failures</li>
+</ul>
+</li>
+<li><strong>Security</strong> - protecting data from unauthorized access</li>
+</ol>
+<hr>
+<h2 id="computer-network-models">Computer Network Models</h2>
+<p>Responsible for establishing a connection among the sender and receiver and also for trasmitting the data.</p>
+<h3 id="osi-model">OSI Model</h3>
+<!-- raw HTML omitted -->
+<ul>
+<li><strong>OSI</strong> - Open System Interconnection</li>
+<li><strong>Designed and Developed by</strong> - International Organization for Standardization (ISO) in 1984</li>
+<li><strong>Describes</strong> - How information moves from one software application in a computer to another software application in another computer. Example - Whatsapp message from one phone to another phone.</li>
+<li><strong>Consists of</strong> - Seven layers</li>
+<li><strong>Seven Layers</strong> - “Please Do Not Throw Spinach Pizza Away”
+<ol>
+<li>Physical Layer</li>
+<li>Data-Link Layer</li>
+<li>Network Layer</li>
+<li>Transport Layer</li>
+<li>Session Layer</li>
+<li>Presentation Layer</li>
+<li>Application Layer</li>
+</ol>
+</li>
+</ul>
+<h3 id="tcpip-model">TCP/IP Model</h3>
+<!-- raw HTML omitted -->
+<ul>
+<li><strong>TCP/IP</strong> - Transmission Control Protocol/Internet Protocol</li>
+<li><strong>Designed and Developed by</strong> - Department of Defense (DoD) in 1960s</li>
+<li><strong>Describes</strong> - A set of general design guidelines and implementations of specific networking protocols to enable computers to communicate over a network.</li>
+<li><strong>Consists of</strong> - Four layers</li>
+<li><strong>Four Layers</strong> -
+<ol>
+<li>Physical Layer</li>
+<li>Network Layer</li>
+<li>Transport Layer</li>
+<li>Application Layer</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="types-of-computer-network">Types of Computer Network</h2>
+<h3 id="pan-personal-area-network">PAN (Personal Area Network)</h3>
+<ul>
+<li><strong>Used by</strong> - single person</li>
+<li><strong>Used for</strong> - personal needs</li>
+<li><strong>Connect by</strong> - wires or wireless mediums</li>
+<li><strong>Range</strong> - 30 feet</li>
+<li><strong>Devices</strong> - laptops, mobiles, earphones etc</li>
+<li><strong>Types</strong> -
+<ul>
+<li>Wired Personal Area Network</li>
+<li>Wireless Personal Area Newtwork</li>
+</ul>
+</li>
+<li><strong>Examples</strong> - Person listning to music</li>
+</ul>
+<h3 id="lan-local-area-network">LAN (Local Area Network)</h3>
+<ul>
+<li><strong>Used by</strong> - office, small buildings, schools</li>
+<li><strong>Used for</strong> - File sharing, resource sharing (printer, scanner etc)</li>
+<li><strong>Connect by</strong> - twisted pair, coaxial cable etc</li>
+<li><strong>Range</strong> - where network is used</li>
+<li><strong>Devices</strong> - Computer, printer, screens etc</li>
+<li><strong>Examples</strong> - sharing files between computer in a office</li>
+</ul>
+<h3 id="man-metropolitan-area-network">MAN (Metropolitan Area Network)</h3>
+<ul>
+<li>
+<p><strong>Used by</strong> - Goverment agencies, private companies</p>
+</li>
+<li>
+<p><strong>Used for</strong> - Data sharing</p>
+</li>
+<li>
+<p><strong>Range</strong> - Cities</p>
+</li>
+<li>
+<p><strong>Devices</strong> - Computer and other devices</p>
+</li>
+<li>
+<p><strong>Examples</strong> - Communication between the banks</p>
+</li>
+<li>
+<p><strong>WAN (Wide Area Network)</strong></p>
+<ul>
+<li><strong>Used by</strong> - Peoples, Government, Companies etc</li>
+<li><strong>Used for</strong> - States or Contries</li>
+<li><strong>Connect by</strong> - fiber optics, satellite, or by other wireless mediums</li>
+<li><strong>Range</strong> - Bigger than WAN</li>
+<li><strong>Devices</strong> - Any device capable of sending and receving data</li>
+<li><strong>Examples</strong> - 4G network</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="network-topologies">Network Topologies</h2>
+<p>Network topology refers to how various nodes, devices, and connections on your network are physically or logically arranged in relation to each other. Think of your network as a city, and the topology as the road map.</p>
+<h2 id="types-of-network-topologies">Types of Network Topologies</h2>
+<h3 id="1-physical">1. Physical</h3>
+<p>The actual connections (wires, cables, etc.) of how the network is arranged.</p>
+<ul>
+<li><strong>P2P Topology</strong> - The network consists of a direct link between two computers.
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Faster and highly reliable</li>
+<li>Not need an expensive server</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>Small area only</li>
+<li>No security besides permissions</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Bus Topology</strong> - Every computer and network device is connected to single cable
+<ul>
+<li><strong>Features</strong>
+<ul>
+<li>Transmit data only in one direction</li>
+<li>Every device is connected to a single cable</li>
+</ul>
+</li>
+<li><strong>Advantages</strong>
+<ul>
+<li>Low Cost</li>
+<li>Moderate data speed</li>
+<li>Least cable required</li>
+<li>Easy to understand</li>
+<li>Easy to expand</li>
+<li>Limited failure</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>Cable fails then whole newtwork fails.</li>
+<li>Slower than ring topology</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Ring Topology</strong> - Every device has exactly two neighboring devices for communication purpose, every computer is connected to another computer.
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Low cost</li>
+<li>Easier to install</li>
+<li>Easy to expand</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>Troubleshooting is difficult</li>
+<li>Adding or deleting can disturbs the network</li>
+<li>Failure in one disturbs the whole network.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Star Topology</strong> - All the computers connect with a hub. This cable is called a central node, and all other nodes are connected using this central node.
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Fast performance with few nodes and low network traffic.</li>
+<li>Easy to troubleshoot.</li>
+<li>Easy to setup and modify.</li>
+<li>Only that node is affected which has failed, rest of the nodes can work smoothly.</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>High Cost</li>
+<li>If hub fails then whole network is stopped</li>
+<li>Performance is based on hub</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Tree Topology</strong> - It have a root node, and all other nodes are connected which form a hierarchy
+<ul>
+<li>
+<p><strong>Advantages</strong></p>
+<ul>
+<li>Expansion is Easy</li>
+<li>Easily managed and maintained</li>
+<li>Easy error detection</li>
+</ul>
+</li>
+<li>
+<p><strong>Disadvantages</strong></p>
+<ul>
+<li>Heavily cabled</li>
+<li>Costly</li>
+<li>Root node fails then whole network fails</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Mesh Topology</strong> - Each computer on the network connects to every other
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Fault is diagnosed easily.</li>
+<li>Provides security and privacy.</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>Installation and configuration is difficult.</li>
+<li>High cabling Cost</li>
+<li>Bulk wiring</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Hybrid Topology</strong> - Combination two or more topologies
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Scalable as size can be increased easily.</li>
+<li>Flexible.</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong></li>
+<li>Complex in design.</li>
+<li>Costly</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-logical">2. Logical</h3>
+<p>Higher-level idea of how the network is set up, including which nodes connect to each other and in which ways, as well as how data is transmitted through the network. Logical network topology includes any virtual and cloud resources.</p>
+<hr>
+<!-- raw HTML omitted -->
+<h2 id="lan-components">LAN Components</h2>
+<h3 id="1-hardware-components">1. Hardware Components</h3>
+<p>Following are the Hardware components-</p>
+<ol>
+<li><strong>Network Adapter Cards or Networking Interface Card (NICs)</strong> - Circuit board or card installed in computer so that it can be connected to a network.</li>
+<li><strong>Server</strong> - A computer designed to process requests and deliver data to other (client) computers over a local network or the Internet. A server may be three types:
+<ul>
+<li>File Server: A file server is a computer that stores files, is attached to a network, and provides shared access of those files to multiple workstation computers.</li>
+<li>Print Server: A print server is a device that connects printers to client computers over a network. It accepts print request from the computers and sends the jobs to the appropriate printers over the LAN.</li>
+<li>Communication Server: A communication server is a computer system designed to handle a wide range of communications-based applications.</li>
+</ul>
+</li>
+<li><strong>Station</strong> - A station is a computer that is connected with a server computer over the LAN, and   communicate with other devices connected with it.</li>
+<li><strong>HUB</strong> - A common connection point for devices in a network. Hubs are commonly used to connect   segments of a LAN. A hub contains multiple ports. When a packet arrives atone port, it is copied to  the other ports so that all segments of the LAN can see all-packets.</li>
+<li><strong>Switch</strong> - A switch is like a hub in that it is a central point for connecting network cables;   however, a switch is able to receive a packet and transmit it to only the destination computer.</li>
+<li><strong>Router</strong> - Routers make the connection to the Internet for LANs. They use a configuration table to decide where packets should go.</li>
+<li><strong>Access point</strong> - A hardware device or a computer’s software that acts as a communication hub for users of a wireless device to connect to a wired LAN.</li>
+<li><strong>Power Supply</strong> - Both wired and wireless networks need a power supply. A wireless network uses the current to generate radio waves. A cabled network sends data interpreted as an electronic pulse.</li>
+<li><strong>Connector</strong> - A network connector refers to any device that used to connect many LAN connection  with the hardware of the computer.</li>
+<li><strong>Shared Peripheral Device</strong> - A peripheral device is any device—such as a printer, hard disk  drive, CD-ROM drive or modem—that is connected to and controlled by a computer. Any or all of these   devices can be accessed by multiple users when connected to a LAN in the proper manner.</li>
+</ol>
+<h3 id="2-lan-software">2. LAN Software</h3>
+<ul>
+<li>Operating system of Server</li>
+<li>Opetating system of client (workstations)</li>
+<li>Application software accessed by LAN User</li>
+</ul>
+<h3 id="3-users">3. Users</h3>
+<ul>
+<li>Users (Normal people who uses network resources.)</li>
+<li>Network Administrators (People who manages LAN network)</li>
+</ul>
+<hr>
+<h2 id="newtorkingtransmission-mediums">Newtorking/Transmission mediums</h2>
+<p>Communication channel that carries the information from the sender to the receiver. Data is transmitted through the electromagnetic signals.</p>
+<h3 id="guided-media">Guided Media</h3>
+<p>It is a wired transmission media, in which data signals are guided along a physical path i.e. within a wire.</p>
+<ul>
+<li>
+<p><strong>Twisted pair Cable -</strong>
+The wires are twisted to reduce cross talk and electrical interference.</p>
+<p>Invented by - Alexander Graham Bell in 1881.</p>
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Easier to install</li>
+<li>Useful and inexpensive</li>
+<li>Used for analog or digital transmission</li>
+</ul>
+</li>
+<li><strong>Disadvantages</strong>
+<ul>
+<li>Easily pick noise signal</li>
+</ul>
+</li>
+</ul>
+<p><strong>Types of Twisted pair Cable</strong>:</p>
+<ul>
+<li>Shielded</li>
+<li>Unshielded</li>
+</ul>
+</li>
+<li>
+<p><strong>Coxial Cable -</strong>
+A group of wrapped and insulated wire line. They transmit data at higher rates.</p>
+<p>The outer conductor acts as a shield against noise.</p>
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>Used in cable television</li>
+<li>Higher bandwidth</li>
+<li>Preferred for long distance telephone lines</li>
+<li>Better shield</li>
+<li>Data transmission without any distortion.</li>
+<li>Higher noise immunity</li>
+</ul>
+</li>
+</ul>
+<p><strong>Types od Coxial Cable</strong>:</p>
+<ul>
+<li>Baseband</li>
+<li>Broadband</li>
+</ul>
+</li>
+<li>
+<p><strong>Fiber Optic Cable -</strong>
+Also known as Optical Fibre provides high quality transmission of signals at high speed.</p>
+<p>It has a glass core in the center.</p>
+<ul>
+<li><strong>Advantages</strong>
+<ul>
+<li>It not get affected by electromagnetic interference.</li>
+<li>High quality transmission of signals at very high speed</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="unguided-media">Unguided Media</h3>
+<p>To exchange bits of data for laptop, notebook, smart watch, without wires you need wireless communication.</p>
+<ul>
+<li>
+<p><strong>Radio Transmission-</strong>
+Used globally for communication</p>
+<p>Travels long distances and even penetrate buildings with ease,</p>
+<p>Omnidirectional travel in all the directions</p>
+<p>Radio communication has eight ranges, also called bands and all regulated by government authorities.</p>
+<ul>
+<li>
+<p><strong>Radio frequencies (Bands):</strong></p>
+<ul>
+<li><strong>VLF -</strong> Very Low Frequency for submarine communication</li>
+<li><strong>LF -</strong> Low Frequency for long-range navigation.</li>
+<li><strong>MF -</strong> Middle Frequency for AM radio.</li>
+<li><strong>HF -</strong> High Frequency for long distance ship and aircraft communication.</li>
+<li><strong>VHF -</strong> Very High Frequency for FM radio.</li>
+<li><strong>UHF -</strong> Ultra High Frequency for Television, mobile telephone communication.</li>
+<li><strong>SHF -</strong> Superhigh frequency for terrestrial and satellite microwave.</li>
+<li><strong>EHF -</strong> Extremely high frequency for radar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Microwave Transmission-</strong>
+Microwave transmission use lower gigahertz frequency of the electronic magnetic spectrum</p>
+<p>Require line-of-sight transmission</p>
+<p><strong>Types:</strong></p>
+<ul>
+<li><strong>Terrestrial Microwave</strong></li>
+<li><strong>Satellite Communication</strong></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="guided-vs-unguided-transmission-media">Guided vs UnGuided Transmission Media</h2>
+<table>
+<thead>
+<tr>
+<th>Basic</th>
+<th>Guided/ Bounded Media</th>
+<th>UnGuided/ UnBounded Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Transmission</td>
+<td>Wired</td>
+<td>Wireless</td>
+</tr>
+<tr>
+<td>Also, called?</td>
+<td>Bounded Transmission Media</td>
+<td>UnBounded Transmission Media</td>
+</tr>
+<tr>
+<td>Media Types</td>
+<td>Twisted Pair Cable, Coaxial cable, Fiber Optic cable, etc</td>
+<td>Microwave Transmission, Satellite Communication, etc.</td>
+</tr>
+<tr>
+<td>Media</td>
+<td>Seen and touched i.e. tangible</td>
+<td>Cannot be seen and touched i.e intangible</td>
+</tr>
+<tr>
+<td>Distance</td>
+<td>Shorter Distance</td>
+<td>Larger Distance</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="comparison-of-guided-and-unguided-transmission-media">Comparison of Guided and UnGuided Transmission Media</h2>
+<table>
+<thead>
+<tr>
+<th>Medium</th>
+<th>Attenuation</th>
+<th>Electromagnetic Interface</th>
+<th>Security</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unshielded Twisted Pair</td>
+<td>High</td>
+<td>High</td>
+<td>Low</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Shielded Twisted Pair</td>
+<td>High</td>
+<td>Moderate</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Coaxial Cable</td>
+<td>Moderate</td>
+<td>Moderate</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Fiber Optic Cable</td>
+<td>Low</td>
+<td>Low</td>
+<td>High</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Radio Waves</td>
+<td>Low to High</td>
+<td>High</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Microwave Transmission</td>
+<td>Can be higher or lower or moderate</td>
+<td>High</td>
+<td>Moderate</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Satellite Communication</td>
+<td>Can be higher or lower or moderate</td>
+<td>High</td>
+<td>Moderate</td>
+<td>Very High</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="digital-data-rate-or-data-transfer-rate-dtr">Digital Data Rate or Data Transfer Rate (DTR)</h2>
+<p>Rate of speed at which the data is transferred from one point to another. Its measurement unit is bits per second (bps), Bytes per second (Bps).</p>
+<p><strong>Other Forms</strong></p>
+<table>
+<thead>
+<tr>
+<th>RATE</th>
+<th>DENOTED BY</th>
+<th>FULL FORM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rate of thousand bits per second</td>
+<td>kbps</td>
+<td>Kilobits per second</td>
+</tr>
+<tr>
+<td>Rate of thousand bytes per second</td>
+<td>Kbps</td>
+<td>Kilobytes per second</td>
+</tr>
+<tr>
+<td>Rate of million bits per second</td>
+<td>mbps</td>
+<td>Megabits per second</td>
+</tr>
+<tr>
+<td>Rate of Million bytes per second</td>
+<td>Mbps</td>
+<td>Megabytes per second</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="serial-data-format">Serial Data Format</h2>
+<p>Low-level protocol for communicating between two or more devices.</p>
+<p>Sends and receives bytes of information in a serial fashion—one bit at a time.</p>
+<p>These bytes are transmitted using either a binary format or a text (ASCII) format.</p>
+<h2 id="encoded-data-formats">Encoded data Formats</h2>
+<!-- raw HTML omitted -->
+<p><strong>Encoding</strong>- The process of converting the data or a given sequence of characters, symbols, alphabets etc., into a specified format.</p>
+<p><strong>Decoding</strong>-  the reverse process of encoding which is to extract the information from the converted format.</p>
+<p><strong>Data Encoding</strong> - The process of using various patterns of voltage or current levels to represent 1s and 0s of the digital signals on the transmission link.</p>
+<ul>
+<li><strong>Encoding Techniques</strong>
+<ul>
+<li>Analog data to Analog signals</li>
+<li>Analog data to Digital signals</li>
+<li>Digital data to Analog signals</li>
+<li>Digital data to Digital signals</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="connection-oriented-and-connectionless-services">Connection Oriented and Connectionless services</h2>
+<p>Connection-oriented service and Connection-less service are used for the connection establishment between two or more than two devices.</p>
+<h3 id="connection-oriented-service">Connection-oriented service</h3>
+<p>It is related to the telephone system. It includes the connection establishment and connection termination. In connection-oriented service, Handshake method is used to establish the connection between sender and receiver.</p>
+<p>TCP (Transmission control protocol) is connection oriented network.</p>
+<ol>
+<li>In this first connection is made before sending the message</li>
+<li>It is a stream based transmission</li>
+<li>In this receiver is first checked for authentication so chances of getting error are very less.</li>
+<li>It is more reliable network.</li>
+</ol>
+<h3 id="connection-less-service">Connection-less service</h3>
+<p>Connection-less service is related to the postal system. It does not include any connection establishment and connection termination. Connection-less Service does not give the guarantee of reliability.</p>
+<p>UDP(User Datagram Protocol) is connection-less oriented network.</p>
+<ol>
+<li>In this no connection is established prior to sending message.</li>
+<li>It transmits data as message.</li>
+<li>There is no need to authenticate, so more likely to have error.</li>
+<li>It is unreliable network.</li>
+</ol>
+<hr>
+<h2 id="switching-techniques">Switching Techniques</h2>
+<p>In large networks, there can be multiple paths from sender to receiver. The switching technique will decide the best route for data transmission.</p>
+<p><strong>Classification:</strong>:</p>
+<ul>
+<li>Circuit Switching
+<ul>
+<li>Space Division Switch
+<ul>
+<li>Crossbar Switch</li>
+<li>Multistage Switch</li>
+</ul>
+</li>
+<li>Time Division Switch</li>
+</ul>
+</li>
+<li>Message Switching</li>
+<li>Packet Switching
+<ul>
+<li>Datagram Approch</li>
+<li>Virtual Circuit Approach
+<ul>
+<li>Switched Virtual Circuit (SVC)</li>
+<li>Permanent Virtual Circuit (PVC)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="circuit-switching">Circuit Switching</h3>
+<ul>
+<li>It establishes a dedicated path between sender and receiver.</li>
+<li>Once the connection is established then the dedicated path will remain to exist until the connection is terminated.</li>
+<li>In a network operates in a similar way as the telephone works.</li>
+<li>A complete end-to-end path must exist before the communication takes place.</li>
+<li>Before sending data a request signal is sent to recevier then the receiver sends back the acknowledgment</li>
+<li>Fixed data can be transferred at a time</li>
+</ul>
+<h3 id="message-switching">Message Switching</h3>
+<p>It is a connectionless network switching technique where the entire message is routed from the source node to the destination node, one node at a time.</p>
+<h3 id="packet-switching">Packet Switching</h3>
+<ul>
+<li>Connectionless network switching technique</li>
+<li>The message is divided and grouped into a number of units called packets</li>
+<li>Packets has two parts: a header and a payload.</li>
+<li>Header contains the addressing information</li>
+<li>Payload carries the actual data</li>
+</ul>
+<hr>
+<hr>
+<h2 id="more-resources">More Resources</h2>
+<p><a href="https://medium.com/@adamzerner/overview-of-computer-networking-70848bd62710">Overview of Computer Networking</a></p>
+<p><a href="https://medium.com/@computerscienceengineering/basics-of-computer-networking-6c7b961f4e14">Basics of Computer Networking</a></p>
+<p><a href="https://www.studytonight.com/computer-networks/">Computer Networks Tutorial | Studytonight</a></p>
+<p><a href="https://studyopedia.com/tutorials/computer-networks/">Computer Networks Tutorial - Studyopedia</a></p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://xvishaldongre.github.io/computer-neworks">Computer Neworks</a></li>
+    </ul>
+<div class="share-buttons">
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on twitter"
+        href="https://twitter.com/intent/tweet/?text=Unit%20-%201&amp;url=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f">
+        <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+            <path
+                d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-253.927,424.544c135.939,0 210.268,-112.643 210.268,-210.268c0,-3.218 0,-6.437 -0.153,-9.502c14.406,-10.421 26.973,-23.448 36.935,-38.314c-13.18,5.824 -27.433,9.809 -42.452,11.648c15.326,-9.196 26.973,-23.602 32.49,-40.92c-14.252,8.429 -30.038,14.56 -46.896,17.931c-13.487,-14.406 -32.644,-23.295 -53.946,-23.295c-40.767,0 -73.87,33.104 -73.87,73.87c0,5.824 0.613,11.494 1.992,16.858c-61.456,-3.065 -115.862,-32.49 -152.337,-77.241c-6.284,10.881 -9.962,23.601 -9.962,37.088c0,25.594 13.027,48.276 32.95,61.456c-12.107,-0.307 -23.448,-3.678 -33.41,-9.196l0,0.92c0,35.862 25.441,65.594 59.311,72.49c-6.13,1.686 -12.72,2.606 -19.464,2.606c-4.751,0 -9.348,-0.46 -13.946,-1.38c9.349,29.426 36.628,50.728 68.965,51.341c-25.287,19.771 -57.164,31.571 -91.8,31.571c-5.977,0 -11.801,-0.306 -17.625,-1.073c32.337,21.15 71.264,33.41 112.95,33.41Z" />
+        </svg>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on linkedin"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f&amp;title=Unit%20-%201&amp;summary=Unit%20-%201&amp;source=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f">
+        <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+            <path
+                d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-288.985,423.278l0,-225.717l-75.04,0l0,225.717l75.04,0Zm270.539,0l0,-129.439c0,-69.333 -37.018,-101.586 -86.381,-101.586c-39.804,0 -57.634,21.891 -67.617,37.266l0,-31.958l-75.021,0c0.995,21.181 0,225.717 0,225.717l75.02,0l0,-126.056c0,-6.748 0.486,-13.492 2.474,-18.315c5.414,-13.475 17.767,-27.434 38.494,-27.434c27.135,0 38.007,20.707 38.007,51.037l0,120.768l75.024,0Zm-307.552,-334.556c-25.674,0 -42.448,16.879 -42.448,39.002c0,21.658 16.264,39.002 41.455,39.002l0.484,0c26.165,0 42.452,-17.344 42.452,-39.002c-0.485,-22.092 -16.241,-38.954 -41.943,-39.002Z" />
+        </svg>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on reddit"
+        href="https://reddit.com/submit?url=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f&title=Unit%20-%201">
+        <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+            <path
+                d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-3.446,265.638c0,-22.964 -18.616,-41.58 -41.58,-41.58c-11.211,0 -21.361,4.457 -28.841,11.666c-28.424,-20.508 -67.586,-33.757 -111.204,-35.278l18.941,-89.121l61.884,13.157c0.756,15.734 13.642,28.29 29.56,28.29c16.407,0 29.706,-13.299 29.706,-29.701c0,-16.403 -13.299,-29.702 -29.706,-29.702c-11.666,0 -21.657,6.792 -26.515,16.578l-69.105,-14.69c-1.922,-0.418 -3.939,-0.042 -5.585,1.036c-1.658,1.073 -2.811,2.761 -3.224,4.686l-21.152,99.438c-44.258,1.228 -84.046,14.494 -112.837,35.232c-7.468,-7.164 -17.589,-11.591 -28.757,-11.591c-22.965,0 -41.585,18.616 -41.585,41.58c0,16.896 10.095,31.41 24.568,37.918c-0.639,4.135 -0.99,8.328 -0.99,12.576c0,63.977 74.469,115.836 166.33,115.836c91.861,0 166.334,-51.859 166.334,-115.836c0,-4.218 -0.347,-8.387 -0.977,-12.493c14.564,-6.47 24.735,-21.034 24.735,-38.001Zm-119.474,108.193c-20.27,20.241 -59.115,21.816 -70.534,21.816c-11.428,0 -50.277,-1.575 -70.522,-21.82c-3.007,-3.008 -3.007,-7.882 0,-10.889c3.003,-2.999 7.882,-3.003 10.885,0c12.777,12.781 40.11,17.317 59.637,17.317c19.522,0 46.86,-4.536 59.657,-17.321c3.016,-2.999 7.886,-2.995 10.885,0.008c3.008,3.011 3.003,7.882 -0.008,10.889Zm-5.23,-48.781c-16.373,0 -29.701,-13.324 -29.701,-29.698c0,-16.381 13.328,-29.714 29.701,-29.714c16.378,0 29.706,13.333 29.706,29.714c0,16.374 -13.328,29.698 -29.706,29.698Zm-160.386,-29.702c0,-16.381 13.328,-29.71 29.714,-29.71c16.369,0 29.689,13.329 29.689,29.71c0,16.373 -13.32,29.693 -29.689,29.693c-16.386,0 -29.714,-13.32 -29.714,-29.693Z" />
+        </svg>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on facebook"
+        href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f">
+        <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+            <path
+                d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z" />
+        </svg>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on whatsapp"
+        href="https://api.whatsapp.com/send?text=Unit%20-%201%20-%20https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f">
+        <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+            <path
+                d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-58.673,127.703c-33.842,-33.881 -78.847,-52.548 -126.798,-52.568c-98.799,0 -179.21,80.405 -179.249,179.234c-0.013,31.593 8.241,62.428 23.927,89.612l-25.429,92.884l95.021,-24.925c26.181,14.28 55.659,21.807 85.658,21.816l0.074,0c98.789,0 179.206,-80.413 179.247,-179.243c0.018,-47.895 -18.61,-92.93 -52.451,-126.81Zm-126.797,275.782l-0.06,0c-26.734,-0.01 -52.954,-7.193 -75.828,-20.767l-5.441,-3.229l-56.386,14.792l15.05,-54.977l-3.542,-5.637c-14.913,-23.72 -22.791,-51.136 -22.779,-79.287c0.033,-82.142 66.867,-148.971 149.046,-148.971c39.793,0.014 77.199,15.531 105.329,43.692c28.128,28.16 43.609,65.592 43.594,105.4c-0.034,82.149 -66.866,148.983 -148.983,148.984Zm81.721,-111.581c-4.479,-2.242 -26.499,-13.075 -30.604,-14.571c-4.105,-1.495 -7.091,-2.241 -10.077,2.241c-2.986,4.483 -11.569,14.572 -14.182,17.562c-2.612,2.988 -5.225,3.364 -9.703,1.12c-4.479,-2.241 -18.91,-6.97 -36.017,-22.23c-13.314,-11.876 -22.304,-26.542 -24.916,-31.026c-2.612,-4.484 -0.279,-6.908 1.963,-9.14c2.016,-2.007 4.48,-5.232 6.719,-7.847c2.24,-2.615 2.986,-4.484 4.479,-7.472c1.493,-2.99 0.747,-5.604 -0.374,-7.846c-1.119,-2.241 -10.077,-24.288 -13.809,-33.256c-3.635,-8.733 -7.327,-7.55 -10.077,-7.688c-2.609,-0.13 -5.598,-0.158 -8.583,-0.158c-2.986,0 -7.839,1.121 -11.944,5.604c-4.105,4.484 -15.675,15.32 -15.675,37.364c0,22.046 16.048,43.342 18.287,46.332c2.24,2.99 31.582,48.227 76.511,67.627c10.685,4.615 19.028,7.371 25.533,9.434c10.728,3.41 20.492,2.929 28.209,1.775c8.605,-1.285 26.499,-10.833 30.231,-21.295c3.732,-10.464 3.732,-19.431 2.612,-21.298c-1.119,-1.869 -4.105,-2.99 -8.583,-5.232Z" />
+        </svg>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share Unit - 1 on telegram"
+        href="https://telegram.me/share/url?text=Unit%20-%201&amp;url=https%3a%2f%2fxvishaldongre.github.io%2fcomputer-neworks%2funit-1%2f">
+        <svg version="1.1" xml:space="preserve" viewBox="2 2 28 28">
+            <path
+                d="M26.49,29.86H5.5a3.37,3.37,0,0,1-2.47-1,3.35,3.35,0,0,1-1-2.47V5.48A3.36,3.36,0,0,1,3,3,3.37,3.37,0,0,1,5.5,2h21A3.38,3.38,0,0,1,29,3a3.36,3.36,0,0,1,1,2.46V26.37a3.35,3.35,0,0,1-1,2.47A3.38,3.38,0,0,1,26.49,29.86Zm-5.38-6.71a.79.79,0,0,0,.85-.66L24.73,9.24a.55.55,0,0,0-.18-.46.62.62,0,0,0-.41-.17q-.08,0-16.53,6.11a.59.59,0,0,0-.41.59.57.57,0,0,0,.43.52l4,1.24,1.61,4.83a.62.62,0,0,0,.63.43.56.56,0,0,0,.4-.17L16.54,20l4.09,3A.9.9,0,0,0,21.11,23.15ZM13.8,20.71l-1.21-4q8.72-5.55,8.78-5.55c.15,0,.23,0,.23.16a.18.18,0,0,1,0,.06s-2.51,2.3-7.52,6.8Z" />
+        </svg>
+    </a>
+</div>
+  </footer>
+</article>
+    </main><footer class="footer">
+
+    
+    <span>&copy; 2020 <a href="https://xvishaldongre.github.io/">BCA Notes </a> <span>&middot;</span> Made with ❤ by Vishal Dongre </span>
+
+
+
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top">
+    <button class="top-link" id="top-link" type="button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+            <path d="M12 6H0l6-6z" /></svg>
+    </button>
+</a>
+
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+
+            document.querySelector(this.getAttribute("href")).scrollIntoView({
+                behavior: "smooth"
+            });
+        });
+    });
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+</script>
+</body>
+
+</html>

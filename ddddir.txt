@@ -1,0 +1,21 @@
+#/bin/bash
+
+sed -i '/sub:/c\sub: \"Accounting and Financial Management\"' "Accounting and Financial Management"/*md
+sed -i '/sub:/c\sub: \"Cloud Computing Concepts\"' "Cloud Computing Concepts"/*md
+sed -i '/sub:/c\sub: \"Computer Graphics (With Multimedia)\"' "Computer Graphics (With Multimedia)"/*md
+sed -i '/sub:/c\sub: \"Computer Neworks\"' "Computer Neworks"/*md
+sed -i '/sub:/c\sub: \"Computer Oriented Numerical Methods\"' "Computer Oriented Numerical Methods"/*md
+sed -i '/sub:/c\sub: \"Computer System Architecture\"' "Computer System Architecture"/*md
+sed -i '/sub:/c\sub: \"Cyber Security\"' "Cyber Security"/*md
+sed -i '/sub:/c\sub: \"Database Management System & Rdbms\"' "Database Management System & Rdbms"/*md
+sed -i '/sub:/c\sub: \"Data Structures Using C++\"' "Data Structures Using C++"/*md
+sed -i '/sub:/c\sub: \"Discrete Mathematics and Algebra\"' "Discrete Mathematics and Algebra"/*md
+sed -i '/sub:/c\sub: \"Fundamentals of Computers and Pc-software\"' "Fundamentals of Computers and Pc-software"/*md
+sed -i '/sub:/c\sub: \"Internet & Web Technology\"' "Internet & Web Technology"/*md
+sed -i '/sub:/c\sub: \"Management Information System\"' "Management Information System"/*md
+sed -i '/sub:/c\sub: \"Object Oriented Programming Concepts Using Java\"' "Object Oriented Programming Concepts Using Java"/*md
+sed -i '/sub:/c\sub: \"Operating System With Unix & Linux\"' "Operating System With Unix & Linux"/*md
+sed -i '/sub:/c\sub: \"Programming and Problem Solving Through C\"' "Programming and Problem Solving Through C"/*md
+sed -i '/sub:/c\sub: \"Software Engineering\"' "Software Engineering"/*md
+sed -i '/sub:/c\sub: \"Web Programming\"' "Web Programming"/*md
+

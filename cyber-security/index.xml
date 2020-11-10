@@ -6,50 +6,59 @@
     <description>Recent content in Cyber Security on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/cyber-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/cyber-security/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/cyber-security/unit-1/</guid>
+      <description>Basics of Communication Systems Transmission Media ISO/OSI and TCP/IP Protocol Stacks Local Area Networks Wide Area Networks Internet working Packet Formats Wireless Networks The Internet </description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/cyber-security/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/cyber-security/unit-2/</guid>
+      <description>Security principles Threats and attack techniques Introduction to security Information security Security triad (CIA Triad): Confidential Integrity Availability Focus of control Security threats and attacks Security management Authentication and access control Identification Authentication: Authentication by passwords Protecting passwords Access control structures Types of access control </description>
     </item>
     
     <item>
       <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/cyber-security/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/cyber-security/unit-3/</guid>
+      <description>Cryptography Cryptographic mechanisms Digital signatures Encryption Certificates Lattice and reference monitors Security levels and categories Lattice diagram Reference monitors Security kernel Hardware security features Protecting memory </description>
     </item>
     
     <item>
       <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/cyber-security/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/cyber-security/unit-4/</guid>
+      <description>Security models Chinese wall model Bell-La Padula Biba Non-deducibility Non-interference Other models Network security Protocol design principles ISO architecture IP security SSL/TLS Firewalls, Intrusion detection </description>
     </item>
     
     <item>
       <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/cyber-security/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/cyber-security/cyber_security_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/cyber-security/unit-5/</guid>
+      <description>Unix security and Windows security Subjects objects and access control software security and database security Memory management Data and code Relational databases Access control in databases Statistical database security General security principles Access components Access decisions Administration and management issues </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/cyber-security/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/cyber-security/resources/</guid>
+      <description></description>
     </item>
     
   </channel>

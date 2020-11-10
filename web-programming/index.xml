@@ -6,50 +6,59 @@
     <description>Recent content in Web Programming on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/web-programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/web-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/web-programming/web_programming_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/web-programming/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/web-programming/web_programming_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/web-programming/unit-1/</guid>
+      <description>Web Technology: Introduction to WWW Web browsers Web servers HTTP URL HTML: Introduction Objective HTML Command Tags: Text List Table Creation of links Inserting graphics, Forms Cascading style sheets (CSS): Introduction to CSS Creating style sheets Types of CSS </description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/web-programming/web_programming_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/web-programming/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/web-programming/web_programming_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/web-programming/unit-2/</guid>
+      <description>PHP A Brief History of PHP PHP Characteristics Installing and Configuring PHP on Windows PHP Language Basics: Lexical Structure Data Types Variables Expressions and Operators Decision Statements Flow Control Statements Embedding PHP in Web Pages PHP Strings: String Constants Printing Strings Accessing Individual Characters String Handling Functions: length, Word count string position reverse replace </description>
     </item>
     
     <item>
       <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/web-programming/web_programming_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/web-programming/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/web-programming/web_programming_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/web-programming/unit-3/</guid>
+      <description>Arrays in PHP: Indexed Arrays Associative Arrays Identifying Elements of an Array Storing Data in Arrays, Multidimensional Arrays extracting multiple values converting between arrays and variables Traversing Arrays Sorting Functions in PHP: Calling a Function Defining a Function Variable Scope Function Parameters Return Values, Variable Functions Anonymous Functions PHP Object Oriented Programming Concepts: Classes Objects Member Functions Encapsulations Inheritance, Polymorphism </description>
     </item>
     
     <item>
       <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/web-programming/web_programming_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/web-programming/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/web-programming/web_programming_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/web-programming/unit-4/</guid>
+      <description>Form Handling in PHP: Setting Up Web Pages to Communicate with PHP Handling Text Fields Text Areas Check Boxes Radio Buttons List Boxes Password Controls Hidden Controls Image Maps File Handling in PHP: Working with files and directories File Open and Read File Create and Write Reading and writing Character in file Reading entire file Rename and Delete File getting information of files ownership and permissions </description>
     </item>
     
     <item>
       <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/web-programming/web_programming_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/web-programming/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/web-programming/web_programming_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/web-programming/unit-5/</guid>
+      <description>Database Access: Using PHP to access a database Introduction to MySql connectivity with MySql XML: What is XML? XML document structure PHP and XML XML parser the document object model the simple XML extension changing a value with simple XML </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/web-programming/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/web-programming/resources/</guid>
+      <description></description>
     </item>
     
   </channel>

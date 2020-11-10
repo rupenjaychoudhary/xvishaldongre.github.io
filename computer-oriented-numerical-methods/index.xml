@@ -6,50 +6,59 @@
     <description>Recent content in Computer Oriented Numerical Methods on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/computer-oriented-numerical-methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-1/</guid>
+      <description>NUMERICAL COMPUTATIONS Computer Arithmetic Floating Point Number Operations, Normalization and their consequences. Iterative Methods : Bisection Methods, False Position Methods, Newton Raphson Method, Secant Method, Graffes Root Squaring Method, Convergence of Solution </description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-2/</guid>
+      <description>Simultaneous Liner Equation : Solution of Simultaneous Liner Equation – Gauss Elimination Method, Gauss – Seidal Method, Gauss – Jordan Elimination Method, Triangularization Method &amp;amp; Pivoting Condensation, III Conditioned Equation &amp;amp; Refinement of solution Curve Fitting : Curve Fitting Method, Least Curve Fitting, Non Linear Curve Fitting. </description>
     </item>
     
     <item>
       <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-3/</guid>
+      <description>Difference Operators And Interpolation: Difference Operators Definition Of Forward, Backward, Shifting, Divided, Difference Central and Averaging Operators and their Relationships. Interpolation: Newton‘s Forward Interpolation Formula, Newton‘s backward Interpolation Formula Newton‘s divided Interpolation Formula. Lagrange‘s Interpolation Formula. </description>
     </item>
     
     <item>
       <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-4/</guid>
+      <description>Numerical Differentiation: Numerical Differentiation using Newton‘s Forward Interpolation Formula, Newton‘s Backward Interpolation Formula Newton‘s divided Interpolation Formula Numerical Integration : General Quadrature Formula, Newton- Cote‘s Formula, Trapezoidal Rule, Simpson‘s One Third Rule, Simpson‘s Three Eight Rule </description>
     </item>
     
     <item>
       <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/computer_oriented_numerical_methods_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/unit-5/</guid>
+      <description>Numerical Solutions of Ordinary Differential Equations: Euler‘s Method , Euler‘s Modifies Method. Tailor‘s Series Method, Picard‘s Method, RungaKutta Second Order and Fourth order Method. </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/computer-oriented-numerical-methods/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/computer-oriented-numerical-methods/resources/</guid>
+      <description></description>
     </item>
     
   </channel>

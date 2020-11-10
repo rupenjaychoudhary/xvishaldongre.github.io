@@ -6,50 +6,59 @@
     <description>Recent content in Computer System Architecture on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/computer-system-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/computer-system-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-1/</guid>
+      <description>Data Representation- Data types, Number Systems: Binary Number system, Octal Number system Hexa–Decimal Number system. Fixed-Point Representation: 1s &amp;amp; 2s complement, Binary fixed-point representation. Arithmetic operation on binary numbers, overflow &amp;amp; underflow. </description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-2/</guid>
+      <description>Digital Logic Ctrcuits: Logic Gates, And,Or,Not,Gate&amp;amp; Their Truth Tables, Nor, Nand &amp;amp; Xor Gates Boolean Algebra Demorgan‘s Theorem. Map Stmplocation: Minimization Techniques, K-Map Sum Of Product &amp;amp; Product Of Sums Combinational &amp;amp; Sequential Circuits: Half Adder, Full Adder, Full Subtractor, Flip-Flops-Rs T Flip-Flops, Shift Registers, Counters </description>
     </item>
     
     <item>
       <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-3/</guid>
+      <description>Cpu Organtsations- Alu &amp;amp; Control Circuit: Idea About Arithmetic Circuit Program Control, Instruction Sequencing. Introduction To Microprocessor: Microprocessor Architecture (8086), System Buses, Register, Program Counter, Block Diagram Of A Micro Computer System. Microprocessor Control Signals, Interfacing Devices. Introcution To Mother Board: Idea About Different Cards And Their Functions, Smps </description>
     </item>
     
     <item>
       <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-4/</guid>
+      <description>Input-Output Organiation: I/O Interface, Properties Of Simple I/O Devices And Their Controller, Isolated Versus Memory-Mapped I/O, Modes Of Data Transfer, Synchronous &amp;amp; Asynchronous Data Transfer, Handshaking, Asynchronous Serial Transfer, I/O Processor </description>
     </item>
     
     <item>
       <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/computer-system-architecture/computer_system_architecture_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-5/</guid>
+      <description>MEMORY ORGANISATION : Auxiliary memory Magnetic drum Disk &amp;amp; Tape Semi conductor memories Memory Hierarchy Associative memory Virtual memory Address space &amp;amp; memory space Address Mapping Page table Page replacement Cache memory Hit Ratio Mapping techniques Writing into cache </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/computer-system-architecture/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/computer-system-architecture/resources/</guid>
+      <description></description>
     </item>
     
   </channel>

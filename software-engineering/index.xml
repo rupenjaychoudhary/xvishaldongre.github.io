@@ -6,50 +6,59 @@
     <description>Recent content in Software Engineering on BCA Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Made with ❤ by Vishal Dongre</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit - 1</title>
-      <link>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-1/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/software-engineering/unit-1/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-1/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/software-engineering/unit-1/</guid>
+      <description>Introduction to Software Engineering : Software Engineering Software Process Generic process model Prescriptive process model specialized unified process- Agile development- Agile Process Extreme Programming Other agile Process models Software engineering Knowledge- core Principles- Principles that guide each framework Activity </description>
     </item>
     
     <item>
       <title>Unit - 2</title>
-      <link>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-2/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/software-engineering/unit-2/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-2/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/software-engineering/unit-2/</guid>
+      <description>Requirements: Requirements Engineering Establishing the Groundwork Eliciting Requirements Developing use cases Building the requirements model Negotiating validating Requirements Requirements Analysis Requirements Modelling Strategies </description>
     </item>
     
     <item>
       <title>Unit - 3</title>
-      <link>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-3/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/software-engineering/unit-3/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-3/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/software-engineering/unit-3/</guid>
+      <description>Design Modeling With Uml: Modeling Concepts and Diagrams Use Case Diagrams Class Diagrams Interaction Diagrams State chart Diagrams Activity Diagrams Package Diagrams Component Diagrams Deployment Diagrams Diagram Organization Diagram Extensions Design Process Design concepts: Abstraction Architecture patterns Separation of Concerns Modularity Information Hiding, Functional Independence Refinement Refactoring Object Oriented Design Concepts, Design Classes Design Model: Data Architectural Interface Component Deployment Level Design Elements </description>
     </item>
     
     <item>
       <title>Unit - 4</title>
-      <link>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-4/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/software-engineering/unit-4/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-4/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/software-engineering/unit-4/</guid>
+      <description>Software Implementation: Structured coding Techniques Coding Styles Standards and Guidelines Documentation Guidelines Modern Programming Language Features: Type checking User defined data types Data Abstraction Exception Handling Concurrency Mechanism </description>
     </item>
     
     <item>
       <title>Unit - 5</title>
-      <link>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-5/</link>
-      <pubDate>Sun, 18 Oct 2020 16:11:33 +0530</pubDate>
+      <link>https://xvishaldongre.github.io/software-engineering/unit-5/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
-      <guid>https://xvishaldongre.github.io/software-engineering/software_engineering_unit-5/</guid>
-      <description>Coming soon&amp;hellip; Be patient 🙂 Good things takes time. 😉 </description>
+      <guid>https://xvishaldongre.github.io/software-engineering/unit-5/</guid>
+      <description>Testing And Maintenance: Testing Software Quality Software Quality Dilemma Achieving Software Quality Testing: Strategic Approach to software Testing Strategic Issues Testing: Strategies for Conventional Software Object oriented software Web Apps Validating Testing System Testing Art of Debugging Maintenance: Software Maintenance Software Supportability Reengineering Business Process Reengineering Software Reengineering Reverse Engineering Restructuring Forward Engineering Economics of Reengineering </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xvishaldongre.github.io/software-engineering/resources/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/software-engineering/resources/</guid>
+      <description></description>
     </item>
     
   </channel>
