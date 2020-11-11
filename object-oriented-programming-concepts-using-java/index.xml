@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-1/</guid>
-      <description>Introduction to Java History Features Application Types of Java Applications Hello World program Variables Data Types Primitive data types boolean data type byte data type char data type short data type int data type long data type float data type double data type Non-primitive data types Unicode Character set Defaults initial values wrapping of integer arithmetic casting comments identifiers and reserved words operators and operator precedence, examples and exercises </description>
+      <description> Introduction to Java History Features Application Types of Java Applications Hello World program  Variables  Data Types Primitive data types boolean data type byte data type char data type short data type int data type long data type float data type double data type Non-primitive data types  Unicode  Character set  Defaults initial values  wrapping of integer arithmetic  casting  comments  identifiers and reserved words  operators and operator precedence,  examples and exercises </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-2/</guid>
-      <description>Statements simple and compound Uses of control statements do for while switch break case continue label class type data: String Arrays example and exercises </description>
+      <description> Statements simple and compound  Uses of control statements do for while switch break case continue label  class type data: String Arrays  example and exercises </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-3/</guid>
-      <description>Definitions and naming conventions for the members f the JAVA classes instance fields and methods Initialization by constructor Initialization by Default constructor Multiple Definition of constructors creation of objects access methods Examples and exercises </description>
+      <description> Definitions and naming conventions for the members f the JAVA classes  instance fields and methods  Initialization by constructor  Initialization by Default constructor  Multiple Definition of constructors  creation of objects  access methods  Examples and exercises </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-4/</guid>
-      <description>Inheritance Super class Sub class Method overloading interface thread Multithreading example synchronized Exception (try-catch-final blocks examples) examples and exercises </description>
+      <description> Inheritance  Super class  Sub class  Method overloading  interface  thread  Multithreading example  synchronized  Exception (try-catch-final blocks examples)  examples and exercises </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-5/</guid>
-      <description>Java Virtual machine concept Java Platform overview programming Examples to clarify use of object threads exceptions and packages for I/O file and string handling examples and exercises </description>
+      <description> Java Virtual machine concept  Java Platform overview  programming Examples to clarify use of object  threads  exceptions and packages for I/O  file and string handling  examples and exercises </description>
     </item>
     
     <item>

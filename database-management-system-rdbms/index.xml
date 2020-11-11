@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/database-management-system-rdbms/unit-1/</guid>
-      <description>Purpose of database system views of data data models: relation network hierarchical instances schemas data dictionary types of database languages:- DDL DML DCL TCL structure of DBMS advantages and disadvantages of DBMS 3-level architecture proposal:- external levels conceptual levels internal levels. Database System architecture level of abstraction Database users and DBA, Classification of Database Management Systems Components of database system Traditional File Systems vs. Modern Database Systems Introduction and applications of DBMS Data Independence.</description>
+      <description>Purpose of database system  views of data  data models: relation network hierarchical instances schemas  data dictionary  types of database languages:- DDL DML DCL TCL  structure of DBMS  advantages and disadvantages of DBMS  3-level architecture proposal:- external levels conceptual levels internal levels.  Database System architecture  level of abstraction  Database users and DBA,  Classification of Database Management Systems  Components of database system  Traditional File Systems vs.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/database-management-system-rdbms/unit-2/</guid>
-      <description>Entity relationship (ER) model as a tool of conceptual design: entities &amp;amp; entities set relationship, relationship set &amp;amp; relationship types attributes role participation and mapping constraints keys, strong and weak entities Advance ER Model Features: generalization specialization aggregation, reducing ER diagram to tables Roles Participation. </description>
+      <description> Entity relationship (ER) model as a tool of conceptual design: entities &amp;amp; entities set relationship, relationship set &amp;amp; relationship types attributes role participation and mapping constraints keys, strong and weak entities  Advance ER Model Features: generalization specialization aggregation, reducing ER diagram to tables Roles Participation. </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/database-management-system-rdbms/unit-3/</guid>
-      <description>Fundamentals of set theoretical notations: relations domains attributes tuples concept of keys: primary key super key alternate key candidate key foreign key fundamentals of integrity rules: entity integrity referential integrity , extension and intention relational algebra: select project Cartesian product different types of joins: theta joins equi joins natural joins outer joins set operations. Evaluation of SQL Between clause Distinct Clause Order by Clause Group by Clause SQL Functions Sub queries Handling null value Aggregate function User Defied Function View.</description>
+      <description>Fundamentals of set theoretical notations: relations domains attributes tuples  concept of keys: primary key super key alternate key candidate key foreign key  fundamentals of integrity rules: entity integrity referential integrity ,  extension and intention  relational algebra: select project Cartesian product different types of joins: theta joins equi joins natural joins outer joins set operations.  Evaluation of SQL Between clause Distinct Clause Order by Clause Group by Clause SQL Functions Sub queries Handling null value Aggregate function User Defied Function View.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/database-management-system-rdbms/unit-4/</guid>
-      <description>Functional Dependencies Good &amp;amp; Bad Decomposition Anomalies as a database: A consequences of bad design Universal relation Normalization: 1NF 2NF 3NF &amp;amp; BCNF normal forms multivalued dependency join dependency 4NF 5NF. Relational Database design Features of good relational database design Codd‘s Rule Integrity constraints Armstrong Axioms Closure Set of Functional Dependency Closure Set of Attributes </description>
+      <description> Functional Dependencies Good &amp;amp; Bad Decomposition Anomalies as a database: A consequences of bad design Universal relation Normalization: 1NF 2NF 3NF &amp;amp; BCNF normal forms multivalued dependency join dependency 4NF 5NF.  Relational Database design  Features of good relational database design  Codd‘s Rule  Integrity constraints  Armstrong Axioms  Closure Set of Functional Dependency  Closure Set of Attributes </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/database-management-system-rdbms/unit-5/</guid>
-      <description>Basic concepts: - Indexing and Hashing B-tree Index files Hashing: Static hash function Dynamic hash function, Index definition in SQL: Multiple key accesses. Transaction Management ACID properties, Serializability Concurrency Control Lock types of Locks Two Phase Locking Protocol Check Points Recovery Techniques Deferred and Immediate data modification. Emerging Database Technology: Data Warehouse Data Mining Distributed database Mobile Database Object Oriented Database Geographical Database </description>
+      <description> Basic concepts: - Indexing and Hashing B-tree Index files Hashing: Static hash function Dynamic hash function,  Index definition in SQL: Multiple key accesses.  Transaction Management  ACID properties,  Serializability  Concurrency Control  Lock types of Locks Two Phase Locking Protocol Check Points Recovery Techniques Deferred and Immediate data modification.  Emerging Database Technology: Data Warehouse Data Mining Distributed database Mobile Database Object Oriented Database Geographical Database </description>
     </item>
     
     <item>

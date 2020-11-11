@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/web-programming/unit-1/</guid>
-      <description>Web Technology: Introduction to WWW Web browsers Web servers HTTP URL HTML: Introduction Objective HTML Command Tags: Text List Table Creation of links Inserting graphics, Forms Cascading style sheets (CSS): Introduction to CSS Creating style sheets Types of CSS </description>
+      <description> Web Technology: Introduction to WWW Web browsers Web servers HTTP URL  HTML: Introduction Objective HTML Command Tags: Text List Table Creation of links Inserting graphics, Forms  Cascading style sheets (CSS): Introduction to CSS Creating style sheets Types of CSS </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/web-programming/unit-2/</guid>
-      <description>PHP A Brief History of PHP PHP Characteristics Installing and Configuring PHP on Windows PHP Language Basics: Lexical Structure Data Types Variables Expressions and Operators Decision Statements Flow Control Statements Embedding PHP in Web Pages PHP Strings: String Constants Printing Strings Accessing Individual Characters String Handling Functions: length, Word count string position reverse replace </description>
+      <description> PHP A Brief History of PHP PHP Characteristics Installing and Configuring PHP on Windows  PHP Language Basics: Lexical Structure Data Types Variables Expressions and Operators Decision Statements Flow Control Statements Embedding PHP in Web Pages  PHP Strings: String Constants Printing Strings Accessing Individual Characters String Handling Functions: length, Word count string position reverse replace </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/web-programming/unit-3/</guid>
-      <description>Arrays in PHP: Indexed Arrays Associative Arrays Identifying Elements of an Array Storing Data in Arrays, Multidimensional Arrays extracting multiple values converting between arrays and variables Traversing Arrays Sorting Functions in PHP: Calling a Function Defining a Function Variable Scope Function Parameters Return Values, Variable Functions Anonymous Functions PHP Object Oriented Programming Concepts: Classes Objects Member Functions Encapsulations Inheritance, Polymorphism </description>
+      <description> Arrays in PHP: Indexed Arrays Associative Arrays Identifying Elements of an Array Storing Data in Arrays, Multidimensional Arrays extracting multiple values converting between arrays and variables Traversing Arrays Sorting  Functions in PHP: Calling a Function Defining a Function Variable Scope Function Parameters Return Values, Variable Functions Anonymous Functions  PHP Object Oriented Programming Concepts: Classes Objects Member Functions Encapsulations Inheritance, Polymorphism </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/web-programming/unit-4/</guid>
-      <description>Form Handling in PHP: Setting Up Web Pages to Communicate with PHP Handling Text Fields Text Areas Check Boxes Radio Buttons List Boxes Password Controls Hidden Controls Image Maps File Handling in PHP: Working with files and directories File Open and Read File Create and Write Reading and writing Character in file Reading entire file Rename and Delete File getting information of files ownership and permissions </description>
+      <description> Form Handling in PHP: Setting Up Web Pages to Communicate with PHP Handling Text Fields Text Areas Check Boxes Radio Buttons List Boxes Password Controls Hidden Controls Image Maps  File Handling in PHP: Working with files and directories File Open and Read File Create and Write Reading and writing Character in file Reading entire file Rename and Delete File getting information of files ownership and permissions </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/web-programming/unit-5/</guid>
-      <description>Database Access: Using PHP to access a database Introduction to MySql connectivity with MySql XML: What is XML? XML document structure PHP and XML XML parser the document object model the simple XML extension changing a value with simple XML </description>
+      <description> Database Access: Using PHP to access a database  Introduction to MySql connectivity with MySql  XML: What is XML? XML document structure PHP and XML XML parser the document object model the simple XML extension changing a value with simple XML </description>
     </item>
     
     <item>

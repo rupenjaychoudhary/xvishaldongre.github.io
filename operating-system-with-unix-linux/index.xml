@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/operating-system-with-unix-linux/unit-1/</guid>
-      <description>Introduction to Operating Systems Operating system services multiprogramming time sharing system storage structures system calls multiprocessor system Basic concepts of CPU scheduling Scheduling criteria Scheduling algorithms algorithm evaluation, multiple processor scheduling real time scheduling I/0 devices organization I/0 buffering </description>
+      <description> Introduction to Operating Systems Operating system services multiprogramming time sharing system storage structures system calls multiprocessor system  Basic concepts of CPU scheduling Scheduling criteria Scheduling algorithms algorithm evaluation, multiple processor scheduling real time scheduling  I/0 devices organization I/0 buffering </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/operating-system-with-unix-linux/unit-2/</guid>
-      <description>Process concept process scheduling operations on processes threads inter-process communication precedence graphs critical section problem semaphores classical problems of synchronization Deadlock Deadlock problem deadlock characterization deadlock prevention, deadlock avoidance deadlock detection recovery from deadlock Methods for deadlock handling </description>
+      <description> Process concept process scheduling operations on processes threads inter-process communication precedence graphs critical section problem semaphores classical problems of synchronization  Deadlock Deadlock problem deadlock characterization deadlock prevention, deadlock avoidance deadlock detection recovery from deadlock Methods for deadlock handling </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/operating-system-with-unix-linux/unit-3/</guid>
-      <description>Concepts of memory management logical and physical address space swapping contiguous and non-contiguous allocation paging segmentation paging combined with segmentation Concepts of virtual memory demand paging page replacement algorithms allocation of frames thrashing demand segmentation Security threads protection Intruders Viruses trusted system Introduction to distributed systems and parallel processing </description>
+      <description> Concepts of memory management logical and physical address space swapping contiguous and non-contiguous allocation paging segmentation paging combined with segmentation  Concepts of virtual memory demand paging page replacement algorithms allocation of frames thrashing demand segmentation  Security threads protection Intruders Viruses trusted system  Introduction to distributed systems and parallel processing </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/operating-system-with-unix-linux/unit-4/</guid>
-      <description>Unix operating system background philosophy help facility The file system structure of file system Basic Command related to file system Unix Utilities: more file wc file comparison ( cmp, comm &amp;amp; diff) cmp comm diff lp banner cal date who tty, sty commands The Bourne shell: sh preceding a command by its own combining commands, pattern matching echo pipes tees shell variables shell scripts simple filters Advanced filters The process: shell process parent and children process status system processes multiple jobs foreground and background wait commands pre mature termination of process job execution with low priority multiple jobs in foreground shell layers timing processes </description>
+      <description> Unix operating system background philosophy help facility The file system structure of file system Basic Command related to file system  Unix Utilities: more file wc file comparison ( cmp, comm &amp;amp; diff) cmp comm diff lp banner cal date who tty, sty commands  The Bourne shell: sh preceding a command by its own combining commands, pattern matching echo pipes tees shell variables shell scripts simple filters Advanced filters  The process: shell process parent and children process status system processes multiple jobs foreground and background wait commands pre mature termination of process job execution with low priority multiple jobs in foreground shell layers timing processes </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/operating-system-with-unix-linux/unit-5/</guid>
-      <description>Communication and scheduling Execute at later running jobs periodically Programming with shell: system variable profile conditional execution script termination Conditional and loop control statements set and shift statement System Administration: super user security user services floppy disk management operation files system administration backups </description>
+      <description> Communication and scheduling Execute at later running jobs periodically  Programming with shell: system variable profile conditional execution script termination Conditional and loop control statements set and shift statement  System Administration: super user security user services floppy disk management operation files system administration backups </description>
     </item>
     
     <item>

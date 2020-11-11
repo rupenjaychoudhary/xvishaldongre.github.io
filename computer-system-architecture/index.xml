@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-1/</guid>
-      <description>Data Representation- Data types, Number Systems: Binary Number system, Octal Number system Hexa–Decimal Number system. Fixed-Point Representation: 1s &amp;amp; 2s complement, Binary fixed-point representation. Arithmetic operation on binary numbers, overflow &amp;amp; underflow. </description>
+      <description> Data Representation- Data types, Number Systems: Binary Number system, Octal Number system Hexa–Decimal Number system.  Fixed-Point Representation: 1s &amp;amp; 2s complement, Binary fixed-point representation.  Arithmetic operation on binary numbers, overflow &amp;amp; underflow. </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-2/</guid>
-      <description>Digital Logic Ctrcuits: Logic Gates, And,Or,Not,Gate&amp;amp; Their Truth Tables, Nor, Nand &amp;amp; Xor Gates Boolean Algebra Demorgan‘s Theorem. Map Stmplocation: Minimization Techniques, K-Map Sum Of Product &amp;amp; Product Of Sums Combinational &amp;amp; Sequential Circuits: Half Adder, Full Adder, Full Subtractor, Flip-Flops-Rs T Flip-Flops, Shift Registers, Counters </description>
+      <description> Digital Logic Ctrcuits: Logic Gates, And,Or,Not,Gate&amp;amp; Their Truth Tables, Nor, Nand &amp;amp; Xor Gates  Boolean Algebra Demorgan‘s Theorem.  Map Stmplocation: Minimization Techniques, K-Map  Sum Of Product &amp;amp; Product Of Sums  Combinational &amp;amp; Sequential Circuits: Half Adder, Full Adder, Full Subtractor, Flip-Flops-Rs T Flip-Flops, Shift Registers, Counters </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-3/</guid>
-      <description>Cpu Organtsations- Alu &amp;amp; Control Circuit: Idea About Arithmetic Circuit Program Control, Instruction Sequencing. Introduction To Microprocessor: Microprocessor Architecture (8086), System Buses, Register, Program Counter, Block Diagram Of A Micro Computer System. Microprocessor Control Signals, Interfacing Devices. Introcution To Mother Board: Idea About Different Cards And Their Functions, Smps </description>
+      <description> Cpu Organtsations-  Alu &amp;amp; Control Circuit: Idea About Arithmetic Circuit Program Control, Instruction Sequencing.  Introduction To Microprocessor: Microprocessor Architecture (8086), System Buses, Register, Program Counter, Block Diagram Of A Micro Computer System. Microprocessor Control Signals, Interfacing Devices.  Introcution To Mother Board: Idea About Different Cards And Their Functions, Smps </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-4/</guid>
-      <description>Input-Output Organiation: I/O Interface, Properties Of Simple I/O Devices And Their Controller, Isolated Versus Memory-Mapped I/O, Modes Of Data Transfer, Synchronous &amp;amp; Asynchronous Data Transfer, Handshaking, Asynchronous Serial Transfer, I/O Processor </description>
+      <description> Input-Output Organiation: I/O Interface, Properties Of Simple I/O Devices And Their Controller, Isolated Versus Memory-Mapped I/O, Modes Of Data Transfer, Synchronous &amp;amp; Asynchronous Data Transfer, Handshaking, Asynchronous Serial Transfer, I/O Processor </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/computer-system-architecture/unit-5/</guid>
-      <description>MEMORY ORGANISATION : Auxiliary memory Magnetic drum Disk &amp;amp; Tape Semi conductor memories Memory Hierarchy Associative memory Virtual memory Address space &amp;amp; memory space Address Mapping Page table Page replacement Cache memory Hit Ratio Mapping techniques Writing into cache </description>
+      <description> MEMORY ORGANISATION : Auxiliary memory Magnetic drum Disk &amp;amp; Tape Semi conductor memories  Memory Hierarchy  Associative memory  Virtual memory  Address space &amp;amp; memory space  Address Mapping  Page table  Page replacement  Cache memory  Hit Ratio  Mapping techniques  Writing into cache </description>
     </item>
     
     <item>
