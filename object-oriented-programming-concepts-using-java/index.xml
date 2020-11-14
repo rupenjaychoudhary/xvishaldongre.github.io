@@ -23,7 +23,8 @@ Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) i
       <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
       
       <guid>https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-2/</guid>
-      <description> Statements simple and compound  Uses of control statements do for while switch break case continue label  class type data: String Arrays  example and exercises </description>
+      <description>Statements simple and compound  A statement is a single &amp;ldquo;command&amp;rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.
+   Statement Purpose Syntax     expression side effects var=expr;expr++;method();new_Type_();   compound group statements { statements }   empty do nothing ;   labeled name a statement label : statement   variable declare a variable [final] type name [= value] [, name [= value]] &amp;hellip;;   if conditional if ( expr ) statement [ else statement]   switch conditional switch (expr) { [ case_expr_:_statements_ ] &amp;hellip; [ default:_statements_ ] }   while loop while ( expr ) statement   do loop do statement while ( expr );   for simplified loop for ( init ; test ; increment ) statement   break exit block break [ label ] ;   continue restart loop continue [ label ] ;   return end method return [ expr ] ;   synchronized critical section synchronized ( expr ) { statements }   throw throw exception throw expr ;   try handle exception try {statements} [ catch (type__name) {statements} ] &amp;hellip; [ finally {statements} ]    &amp;ndash; https://docstore.</description>
     </item>
     
     <item>
