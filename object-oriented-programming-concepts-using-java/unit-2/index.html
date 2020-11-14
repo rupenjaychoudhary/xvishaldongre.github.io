@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="preload stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="preload stylesheet">
     
     <meta name="google-site-verification" content="6xDampq5k3XM9893O7oWPOBM00pcv_DZ77LKnQ7Ry7s" /><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +35,7 @@ if (!doNotTrack) {
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <meta property="og:title" content="Unit - 2" />
-<meta property="og:description" content="Statements simple and compound  A statement is a single &ldquo;command&rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.
+<meta property="og:description" content="Statements  A statement is a single &ldquo;command&rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.
    Statement Purpose Syntax     expression side effects var=expr;expr&#43;&#43;;method();new_Type_();   compound group statements { statements }   empty do nothing ;   labeled name a statement label : statement   variable declare a variable [final] type name [= value] [, name [= value]] &hellip;;   if conditional if ( expr ) statement [ else statement]   switch conditional switch (expr) { [ case_expr_:_statements_ ] &hellip; [ default:_statements_ ] }   while loop while ( expr ) statement   do loop do statement while ( expr );   for simplified loop for ( init ; test ; increment ) statement   break exit block break [ label ] ;   continue restart loop continue [ label ] ;   return end method return [ expr ] ;   synchronized critical section synchronized ( expr ) { statements }   throw throw exception throw expr ;   try handle exception try {statements} [ catch (type__name) {statements} ] &hellip; [ finally {statements} ]    &ndash; https://docstore." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://xvishaldongre.github.io/object-oriented-programming-concepts-using-java/unit-2/" />
@@ -46,7 +46,7 @@ if (!doNotTrack) {
 <meta name="twitter:image" content="https://xvishaldongre.github.io/60"/>
 
 <meta name="twitter:title" content="Unit - 2"/>
-<meta name="twitter:description" content="Statements simple and compound  A statement is a single &ldquo;command&rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.
+<meta name="twitter:description" content="Statements  A statement is a single &ldquo;command&rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.
    Statement Purpose Syntax     expression side effects var=expr;expr&#43;&#43;;method();new_Type_();   compound group statements { statements }   empty do nothing ;   labeled name a statement label : statement   variable declare a variable [final] type name [= value] [, name [= value]] &hellip;;   if conditional if ( expr ) statement [ else statement]   switch conditional switch (expr) { [ case_expr_:_statements_ ] &hellip; [ default:_statements_ ] }   while loop while ( expr ) statement   do loop do statement while ( expr );   for simplified loop for ( init ; test ; increment ) statement   break exit block break [ label ] ;   continue restart loop continue [ label ] ;   return end method return [ expr ] ;   synchronized critical section synchronized ( expr ) { statements }   throw throw exception throw expr ;   try handle exception try {statements} [ catch (type__name) {statements} ] &hellip; [ finally {statements} ]    &ndash; https://docstore."/>
 
 <script type="application/ld+json">
@@ -55,12 +55,12 @@ if (!doNotTrack) {
   "@type": "BlogPosting",
   "headline": "Unit - 2",
   "name": "Unit - 2",
-  "description": "Statements simple and compound  A statement is a single \u0026amp;ldquo;command\u0026amp;rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after …",
+  "description": "Statements  A statement is a single \u0026amp;ldquo;command\u0026amp;rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order …",
   "keywords": [
     
   ],
-  "articleBody": "Statements simple and compound  A statement is a single “command” that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.\n   Statement Purpose Syntax     expression side effects var=expr;expr++;method();new_Type_();   compound group statements { statements }   empty do nothing ;   labeled name a statement label : statement   variable declare a variable [final] type name [= value] [, name [= value]] …;   if conditional if ( expr ) statement [ else statement]   switch conditional switch (expr) { [ case_expr_:_statements_ ] … [ default:_statements_ ] }   while loop while ( expr ) statement   do loop do statement while ( expr );   for simplified loop for ( init ; test ; increment ) statement   break exit block break [ label ] ;   continue restart loop continue [ label ] ;   return end method return [ expr ] ;   synchronized critical section synchronized ( expr ) { statements }   throw throw exception throw expr ;   try handle exception try {statements} [ catch (type__name) {statements} ] … [ finally {statements} ]    – https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm\n  Uses of control statements  Decision-Making Statements Statements that determine which statement to execute and when are known as decision-making statements. The flow of the execution of the program is controlled by the control flow statement.\nThere are four decision-making statements available in java.\nSimple if statement The if statement determines whether a code should be executed based on the specified condition.\nIf..else statement In this statement, if the condition specified is true, the if block is executed. Otherwise, the else block is executed.\nNested if statement An if present inside an if block is known as a nested if block. It is similar to an if..else statement, except they are defined inside another if..else statement.\nSwitch statement A switch statement in java is used to execute a single statement from multiple conditions.\nLooping Statements Statements that execute a block of code repeatedly until a specified condition is met are known as looping statements.\nJava provides the user with three types of loops:\nWhile Known as the most common loop, the while loop evaluates a certain condition. If the condition is true, the code is executed. This process is continued until the specified condition turns out to be false.\nDo..while The do-while loop is similar to the while loop, the only difference being that the condition in the do-while loop is evaluated after the execution of the loop body. This guarantees that the loop is executed at least once.\nFor The for loop in java is used to iterate and evaluate a code multiple times.\nFor-Each The traversal of elements in an array can be done by the for-each loop. The elements present in the array are returned one by one. It must be noted that the user does not have to increment the value in the for-each loop.\nBranching Statements Branching statements in java are used to jump from a statement to another statement, thereby the transferring the flow of execution.\nBreak The break statement in java is used to terminate a loop and break the current flow of the program.\nContinue To jump to the next iteration of the loop, we make use of the continue statement. This statement continues the current flow of the program and skips a part of the code at the specified condition.\n– https://www.edureka.co/blog/control-statements-in-java/#highlighter_782350\n  Class type data:  Java has many data types built into it, and you (as a programmer) can define as many more as you need. Other than the primitive data types, all data types are classes. In other words, data is either primitive data or object data.\n– https://chortle.ccsu.edu/Java5/Notes/chap26/ch26_2.html#data_type\n String  Strings are used for storing text.\nA String variable contains a collection of characters surrounded by double quotes:\n– https://www.w3schools.com/java/java_strings.asp\n Arrays  Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.\n– https://www.w3schools.com/java/java_arrays.asp\n  example and exercises Coming soon.\n",
-  "wordCount" : "680",
+  "articleBody": "Statements  A statement is a single “command” that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.\n   Statement Purpose Syntax     expression side effects var=expr;expr++;method();new_Type_();   compound group statements { statements }   empty do nothing ;   labeled name a statement label : statement   variable declare a variable [final] type name [= value] [, name [= value]] …;   if conditional if ( expr ) statement [ else statement]   switch conditional switch (expr) { [ case_expr_:_statements_ ] … [ default:_statements_ ] }   while loop while ( expr ) statement   do loop do statement while ( expr );   for simplified loop for ( init ; test ; increment ) statement   break exit block break [ label ] ;   continue restart loop continue [ label ] ;   return end method return [ expr ] ;   synchronized critical section synchronized ( expr ) { statements }   throw throw exception throw expr ;   try handle exception try {statements} [ catch (type__name) {statements} ] … [ finally {statements} ]    – https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm\n Compound statement  A compound statement is any number and kind of statements grouped together within curly braces. You can use a compound statement anywhere a statement is required by Java.\n– https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm#INDEX-316\n  Uses of control statements  1. Decision-Making Statements Statements that determine which statement to execute and when are known as decision-making statements. The flow of the execution of the program is controlled by the control flow statement.\nThere are four decision-making statements available in java.\nSimple if statement The if statement determines whether a code should be executed based on the specified condition.\nIf..else statement In this statement, if the condition specified is true, the if block is executed. Otherwise, the else block is executed.\nNested if statement An if present inside an if block is known as a nested if block. It is similar to an if..else statement, except they are defined inside another if..else statement.\nSwitch statement A switch statement in java is used to execute a single statement from multiple conditions.\n2. Looping Statements Statements that execute a block of code repeatedly until a specified condition is met are known as looping statements.\nJava provides the user with three types of loops:\nWhile Known as the most common loop, the while loop evaluates a certain condition. If the condition is true, the code is executed. This process is continued until the specified condition turns out to be false.\nDo..while The do-while loop is similar to the while loop, the only difference being that the condition in the do-while loop is evaluated after the execution of the loop body. This guarantees that the loop is executed at least once.\nFor The for loop in java is used to iterate and evaluate a code multiple times.\nFor-Each The traversal of elements in an array can be done by the for-each loop. The elements present in the array are returned one by one. It must be noted that the user does not have to increment the value in the for-each loop.\n3. Branching Statements Branching statements in java are used to jump from a statement to another statement, thereby the transferring the flow of execution.\nBreak The break statement in java is used to terminate a loop and break the current flow of the program.\nContinue To jump to the next iteration of the loop, we make use of the continue statement. This statement continues the current flow of the program and skips a part of the code at the specified condition.\n– https://www.edureka.co/blog/control-statements-in-java/#highlighter_782350\n  Class type data:  Java has many data types built into it, and you (as a programmer) can define as many more as you need. Other than the primitive data types, all data types are classes. In other words, data is either primitive data or object data.\n– https://chortle.ccsu.edu/Java5/Notes/chap26/ch26_2.html#data_type\n String  Strings are used for storing text.\nA String variable contains a collection of characters surrounded by double quotes:\n– https://www.w3schools.com/java/java_strings.asp\n Arrays  Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.\n– https://www.w3schools.com/java/java_arrays.asp\n  example and exercises Coming soon.\n",
+  "wordCount" : "712",
   "inLanguage": "en",
   
   "datePublished": "2020-10-19T16:11:33+05:30",
@@ -88,7 +88,7 @@ if (!doNotTrack) {
 
 </head>
 
-<body class="single" id="top" style="font-family: Patrick Hand;">
+<body class="single" id="top" style="font-family: Poppins;">
 <script>
     
     if (localStorage.getItem("pref-theme") === "dark") {
@@ -176,24 +176,27 @@ if (!doNotTrack) {
         <div class="details">Table of Contents</div>
       </summary>
       <blockquote><ul><li>
-        <a href="#statements-simple-and-compound">Statements simple and compound</a></li><li>
+        <a href="#statements">Statements</a><ul>
+            <li>
+        <a href="#compound-statement">Compound statement</a></li></ul>
+    </li><li>
         <a href="#uses-of-control-statements">Uses of control statements</a><ul>
             <li>
-        <a href="#decision-making-statements">Decision-Making Statements</a><ul>
+        <a href="#1-decision-making-statements">1. Decision-Making Statements</a><ul>
             <li>
         <a href="#simple-if-statement">Simple if statement</a></li><li>
         <a href="#ifelse-statement">If..else statement</a></li><li>
         <a href="#nested-if-statement">Nested if statement</a></li><li>
         <a href="#switch-statement">Switch statement</a></li></ul>
     </li><li>
-        <a href="#looping-statements">Looping Statements</a><ul>
+        <a href="#2-looping-statements">2. Looping Statements</a><ul>
             <li>
         <a href="#while">While</a></li><li>
         <a href="#dowhile">Do..while</a></li><li>
         <a href="#for">For</a></li><li>
         <a href="#for-each">For-Each</a></li></ul>
     </li><li>
-        <a href="#branching-statements">Branching Statements</a><ul>
+        <a href="#3-branching-statements">3. Branching Statements</a><ul>
             <li>
         <a href="#break">Break</a></li><li>
         <a href="#continue">Continue</a></li></ul>
@@ -208,7 +211,7 @@ if (!doNotTrack) {
       </blockquote>
     </details>
   </div>
-  <div class="post-content"><h1 id="statements-simple-and-compound">Statements simple and compound</h1>
+  <div class="post-content"><h1 id="statements">Statements</h1>
 <blockquote>
 <p>A <em>statement</em> is a single &ldquo;command&rdquo; that is executed by the Java interpreter. By default, the Java interpreter runs one statement after another, in the order they are written. Many of the statements defined by Java, however, are flow-control statements, such as conditionals and loops, that alter this default order of execution in well-defined ways.</p>
 <table>
@@ -304,10 +307,15 @@ if (!doNotTrack) {
 </table>
 <p>&ndash; <a href="https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm">https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm</a></p>
 </blockquote>
+<h2 id="compound-statement">Compound statement</h2>
+<blockquote>
+<p>A <em>compound statement</em> is any number and kind of statements grouped together within curly braces. You can use a compound statement anywhere a <em>statement</em> is required by Java.</p>
+<p>&ndash; <a href="https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm#INDEX-316">https://docstore.mik.ua/orelly/java-ent/jnut/ch02_06.htm#INDEX-316</a></p>
+</blockquote>
 <hr>
 <h1 id="uses-of-control-statements">Uses of control statements</h1>
 <blockquote>
-<h2 id="decision-making-statements">Decision-Making Statements</h2>
+<h2 id="1-decision-making-statements">1. Decision-Making Statements</h2>
 <p>Statements that determine which statement to execute and when are known as decision-making statements. The flow of the execution of the program is controlled by the control flow statement.</p>
 <p>There are four decision-making statements available in java.</p>
 <h3 id="simple-if-statement">Simple if statement</h3>
@@ -318,7 +326,7 @@ if (!doNotTrack) {
 <p>An if present inside an if block is known as a nested if block. It is similar to an if..else statement, except they are defined inside another if..else statement.</p>
 <h3 id="switch-statement">Switch statement</h3>
 <p>A switch statement in java is used to execute a single statement from multiple conditions.</p>
-<h2 id="looping-statements">Looping Statements</h2>
+<h2 id="2-looping-statements">2. Looping Statements</h2>
 <p>Statements that execute a block of code repeatedly until a specified condition is met are known as looping statements.</p>
 <p>Java provides the user with three types of loops:</p>
 <h3 id="while">While</h3>
@@ -329,7 +337,7 @@ if (!doNotTrack) {
 <p>The for loop in java is used to iterate and evaluate a code multiple times.</p>
 <h3 id="for-each">For-Each</h3>
 <p>The traversal of elements in an array can be done by the for-each loop. The elements present in the array are returned one by one. It must be noted that the user does not have to increment the value in the for-each loop.</p>
-<h2 id="branching-statements">Branching Statements</h2>
+<h2 id="3-branching-statements">3. Branching Statements</h2>
 <p>Branching statements in java are used to jump from a statement to another statement, thereby the transferring the flow of execution.</p>
 <h3 id="break">Break</h3>
 <p>The break statement in java is used to terminate a loop and break the current flow of the program.</p>
