@@ -5,19 +5,16 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# clear public folder 
 rm -rf public/
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-
-
 # move folder to git dir
-cp -rv public/* xvishaldongre.github.io/
-
-cd xvishaldongre.github.io
 
 git pull
+
 # Add changes to git.
 git add .
 
