@@ -1,0 +1,78 @@
+baseURL: 'https://xvishaldongre.github.io/'
+title: BCA Notes
+paginate: 6
+theme: hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpored: false
+
+googleAnalytics: G-747PCZ7M3S
+
+minify:
+  disableXML: true
+  minifyOutput: false
+
+params:
+  quote: There's no such thing as mandatory education. You can make people sit in chair, but they won't learn anything. At some point people have to voluntarily make the choice to learn.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: BCA Notes
+
+  description: "Get your notes in one place. Whether you're studying for a test or need to make up an assignment, we have the course notes and study guides you need."
+  author: 'Vishal Dongre'
+
+  images: "<link or path of image for opengraph, twitter-cards>"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle : false
+  disableSpecial1stPost : false
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Welcome to BCA Notes
+    # imageUrl: 'https://i.imgur.com/k9WdbK2.png'
+    # imageTitle: my image
+      
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to BCA Notes
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/xvishaldongre/'
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 5
+    - name: About 
+      url: /about/
+      weight: 7
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  archive: archives
+
+DefaultContentLanguage: en
+copyright: Made with ❤ by Vishal Dongre
+# copyright: It is a miracle that curiousity survives formal education. - Albert Einstein
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+  hi:
+    languageName: "Hindi"
+    weight: 2
+
+pluralizelisttitles: false
+

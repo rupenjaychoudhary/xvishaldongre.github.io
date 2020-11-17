@@ -1,0 +1,15 @@
+{
+    "1": {
+        "Title": "First Year",
+        "Topics": ["Fundamentals of Computers and Pc-software", "Computer System Architecture", "Programming and Problem Solving Through C", "Internet & Web Technology", "Cyber Security", "Discrete Mathematics and Algebra"]
+    },
+    "2": {
+        "Title": "Second Year",
+        "Topics": ["Data Structures Using C++", "Database Management System & RDBMS", "Software Engineering", "Operating System With Unix & Linux", "Accounting and Financial Management", "Computer Oriented Numerical Methods"] 
+    },
+    "3": {
+        "Title": "Third Year",
+        "Topics": ["Object Oriented Programming Concepts Using Java", "Computer Neworks", "Web Programming", "Management Information System", "Computer Graphics (With Multimedia)", "Cloud Computing Concepts"] 
+    }
+}
+

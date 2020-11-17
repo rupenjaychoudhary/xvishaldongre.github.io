@@ -1,0 +1,20 @@
+#/bin/bash
+
+mv accounting_and_financial_management/* Accounting\ and\ Financial\ Management/
+mv cloud_computing_concepts/* Cloud\ Computing\ Concepts/
+mv computer_graphics_\(with_multimedia\)/* Computer\ Graphics\ \(With\ Multimedia\)/
+mv computer_neworks/* Computer\ Neworks/
+mv computer_oriented_numerical_methods/* Computer\ Oriented\ Numerical\ Methods/
+mv computer_system_architecture/* Computer\ System\ Architecture/
+mv cyber_security/* Cyber\ Security/
+mv data_structures_using_c++/* Database\ Management\ System\ &\ Rdbms/
+mv database_management_system_&_rdbms/* Data\ Structures\ Using\ C++/
+mv discrete_mathematics_and_algebra/* Discrete\ Mathematics\ and\ Algebra/
+mv fundamentals_of_computers_and_pc-software/* Fundamentals\ of\ Computers\ and\ Pc-software/
+mv internet_&_web_technology/* Internet\ &\ Web\ Technology/
+mv management_information_system/* Management\ Information\ System/
+mv object_oriented_programming_concepts_using_java/* Object\ Oriented\ Programming\ Concepts\ Using\ Java/
+mv operating_system_with_unix_&_linux/* Operating\ System\ With\ Unix\ &\ Linux/
+mv programming_and_problem_solving_through_c/* Programming\ and\ Problem\ Solving\ Through\ C/
+mv software_engineering/* Software\ Engineering/
+mv web_programming/* Web\ Programming/
