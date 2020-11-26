@@ -75,4 +75,4 @@ languages:
     weight: 2
 
 pluralizelisttitles: false
-
+publishDir: docs
