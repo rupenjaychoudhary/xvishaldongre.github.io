@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xvishaldongre.github.io
+Token: 324389d785377b5b1f229d4cb9a48a9f588299a80ce54de353a43106c9f27a2c
